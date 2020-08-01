@@ -34,7 +34,7 @@
         <text>Paragraph (3) is amended to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:replace/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§44-401|(3)"/>
             <num>(3)</num>
             <para>
               <num>(A)</num>
@@ -75,7 +75,7 @@
       <para codify:path="(3A)|num">
         <num>(2)</num>
         <text>Existing paragraph (3A) is redesignated at paragraph (3B).</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-401|(3B)">
           <find>(3A)</find>
           <replace>(3B)</replace>
         </codify:find-replace>
@@ -85,7 +85,7 @@
         <text>A new paragraph (3A) is added to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert after="(3)"/>
+            <codify:insert after="(3)" codified:doc="D.C. Code" codified:path="§44-401|(3A)"/>
             <num>(3A)</num>
             <text>"Certificate of need" means a document obtained from the SHPDA that demonstrates a public need for the new service or expenditure, as described in <code-cite doc="D.C. Code" path="§44-406|(a)">section 7(a)</code-cite>.</text>
           </para>
@@ -97,7 +97,7 @@
         <text>Paragraph 14 is amended to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:replace/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§44-401|(14)"/>
             <num>(14)</num>
             <para>
               <num>(A)</num>
@@ -131,7 +131,7 @@
     <para>
       <num>(b)</num>
       <text>The lead-in language for Section 7(b) (D.C. Official Code § 44-406(b)) is amended by striking the phrase "expenditure to acquire," and inserting the phrase "expenditure in any amount to acquire," in its place.</text>
-      <codify:find-replace path="§44-406|(b)" count="1">
+      <codify:find-replace path="§44-406|(b)" count="1" codified:doc="D.C. Code" codified:path="§44-406|(b)">
         <find>expenditure to acquire,</find>
         <replace>expenditure in any amount to acquire,</replace>
       </codify:find-replace>
@@ -142,11 +142,11 @@
       <para>
         <num>(1)</num>
         <text>Paragraph (19) is amended by striking the phrase "by December 31, 2021." and inserting the phrase "by December 31, 2021; and" in its place.</text>
-        <codify:find-replace path="(18)" count="1">
+        <codify:find-replace path="(18)" count="1" codified:doc="D.C. Code" codified:path="§44-407|(b)|(18)">
           <find>[; and]</find>
           <replace>;</replace>
         </codify:find-replace>
-        <codify:find-replace path="(19)" count="1">
+        <codify:find-replace path="(19)" count="1" codified:doc="D.C. Code" codified:path="§44-407|(b)|(19)">
           <find>by December 31, 2021.</find>
           <replace>by December 31, 2021; and</replace>
         </codify:find-replace>
@@ -156,7 +156,7 @@
         <text>A new paragraph (20) is added to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert/>
+            <codify:insert codified:doc="D.C. Code" codified:path="§44-407|(b)|(20)"/>
             <num>(20)</num>
             <text>The operation of a nonprofit specializing in vision screening and providing free diagnostic services and eyewear to school children and youth in the District of Columbia ("nonprofit"); provided, that the nonprofit has entered into a memorandum of understanding with the local education agency that will be served by the nonprofit.</text>
           </para>
@@ -170,7 +170,7 @@
       <para codify:path="(a)">
         <num>(1)</num>
         <text>Subsection (a) is amended by striking the phrase "admission," and inserting the phrase "admission and increase to $4.50 per inpatient admission beginning in the 2021 fiscal year," in its place.</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-420|(a)">
           <find>admission,</find>
           <replace>admission and increase to $4.50 per inpatient admission beginning in the 2021 fiscal year,</replace>
         </codify:find-replace>
@@ -180,18 +180,18 @@
         <text>New subsections (d) and (e) are added to read as follows:</text>
         <include>
           <para>
-            <codify:insert/>
+            <codify:insert codified:doc="D.C. Code" codified:path="§44-420|(d)"/>
             <num>(d)</num>
             <text>Notwithstanding the provisions of subsection (a) of this section, the $52,050 application fee paid by Iona Senior Services for a project located at 3303 Stanton Road, S.E., Washington, D.C., 20020, shall be waived and refunded.</text>
           </para>
           <para>
-            <codify:insert/>
+            <codify:insert codified:doc="D.C. Code" codified:path="§44-420|(e)"/>
             <num>(e)</num>
             <text>Notwithstanding the provisions of subsection (a) of this section, the maximum application fee that may be collected from Community of Hope for a project located at 2120 Bladensburg Road, N.E., Washington, D.C., 20018, shall be $5,000, and any application fees paid prior to <span codify:value="March 3, 2020">the effective date of this act</span> shall be refunded.</text>
           </para>
         </include>
         <aftertext>.</aftertext>
-        <codify:not-funded-anno doc="D.C. Code" path="§44-420" applicability-path="§3" display-template=""/>
+        <codify:not-funded-anno doc="D.C. Code" path="§44-420" applicability-path="§3" display-template="" codified:doc="D.C. Code" codified:path="§44-420" codified:display="Note"/>
       </para>
     </para>
   </section>
@@ -201,7 +201,7 @@
     <para>
       <num>(a)</num>
       <text>Section 2(d)(2) of this act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-      <codify:applicability doc="D.C. Law 23-60" path="§2|(d)|(2)" date="notfunded" history="false"/>
+      <codify:applicability doc="D.C. Law 23-60" path="§2|(d)|(2)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§44-420|(d)"/>
     </para>
     <para>
       <num>(b)</num>

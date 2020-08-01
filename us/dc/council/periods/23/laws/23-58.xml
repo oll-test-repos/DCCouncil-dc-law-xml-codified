@@ -26,7 +26,7 @@
   <section>
     <num>2</num>
     <text>Section 6092 of the Anacostia River Toxics Remediation Act of 2014, effective February 26, 2015 (D.C. Law 20-155; D.C. Official Code § 8-104.31), is amended by striking the phrase "December 31, 2019" and inserting the phrase "September 30, 2020" in its place.</text>
-    <codify:temporary doc="D.C. Code" path="§8-104.31"/>
+    <codify:temporary doc="D.C. Code" path="§8-104.31" codified:doc="D.C. Code" codified:path="§8-104.31" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>
