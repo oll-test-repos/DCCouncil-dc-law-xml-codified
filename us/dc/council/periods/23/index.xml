@@ -31,6 +31,13 @@
     </collection>
     <collection name="pending">
       <heading>Acts pending congressional review</heading>
+      <xi:include href="./acts/23-227.xml"/>
+      <xi:include href="./acts/23-226.xml"/>
+      <xi:include href="./acts/23-223.xml"/>
+      <xi:include href="./acts/23-222.xml"/>
+      <xi:include href="./acts/23-221.xml"/>
+      <xi:include href="./acts/23-220.xml"/>
+      <xi:include href="./acts/23-219.xml"/>
       <xi:include href="./acts/23-218.xml"/>
       <xi:include href="./acts/23-217.xml"/>
       <xi:include href="./acts/23-203.xml"/>
@@ -38,6 +45,10 @@
   </collection>
   <collection name="emergency">
     <heading>Emergency Acts</heading>
+    <xi:include href="./acts/23-234.xml"/>
+    <xi:include href="./acts/23-231.xml"/>
+    <xi:include href="./acts/23-230.xml"/>
+    <xi:include href="./acts/23-229.xml"/>
     <xi:include href="./acts/23-213.xml"/>
     <xi:include href="./acts/23-209.xml"/>
     <xi:include href="./acts/23-208.xml"/>
