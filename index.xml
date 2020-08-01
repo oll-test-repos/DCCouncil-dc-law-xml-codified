@@ -24,7 +24,7 @@
       </repositories>
       <platform version="2.0.0.dev11000" reproducible="false"/>
       <build-date>2020-08-01</build-date>
-      <codified-date>2020-03-02</codified-date>
+      <codified-date>2020-03-03</codified-date>
     </build>
   </meta>
   <xi:include href="./us/dc/council/code/index.xml"/>
