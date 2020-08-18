@@ -69,7 +69,7 @@
       </section>
     </include>
     <aftertext>.</aftertext>
-    <codify:temporary doc="D.C. Code" path="§24-211.07"/>
+    <codify:temporary doc="D.C. Code" path="§24-211.07" codified:doc="D.C. Code" codified:path="§24-211.07" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>
