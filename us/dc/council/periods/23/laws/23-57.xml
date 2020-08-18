@@ -32,7 +32,7 @@
       <text>Section 8 (D.C. Official Code § 4-507) is amended by adding a new subsection (a-1) to read as follows:</text>
       <include>
         <para>
-          <codify:insert after="(a)"/>
+          <codify:insert after="(a)" codified:doc="D.C. Code" codified:path="§4-507|(a-1)"/>
           <num>(a-1)</num>
           <text>Notwithstanding subsection (a) of this section, if a victim or secondary victim is a dependent on a primary insurance holder's insurance policy, the primary insurance holder's insurance policy shall not constitute a collateral source for the purposes of subsection (a) of this section, unless the victim or secondary victim chooses to avail himself or herself of the benefits or compensation from the primary insurance holder's insurance policy.</text>
         </para>
@@ -45,7 +45,7 @@
       <para codify:path="(a)">
         <num>(1)</num>
         <text>Subsection (a) is amended by striking the phrase "in person or by mail." and inserting the phrase "in person, by mail, or by electronic mail." in its place.</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-512|(a)">
           <find>in person or by mail.</find>
           <replace>in person, by mail, or by electronic mail.</replace>
         </codify:find-replace>
@@ -53,7 +53,7 @@
       <para codify:path="(b)">
         <num>(2)</num>
         <text>Subsection (b) is amended by striking the phrase "claimant by first class mail, along" and inserting the phrase "claimant by first class mail or electronic mail, along" in its place.</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-512|(b)">
           <find>claimant by first class mail, along</find>
           <replace>claimant by first class mail or electronic mail, along</replace>
         </codify:find-replace>
@@ -61,7 +61,7 @@
       <para codify:path="(c)">
         <num>(3)</num>
         <text>Subsection (c) is amended by striking the phrase "claimant by first class mail, along" and inserting the phrase "claimant by first class mail or electronic mail, along" in its place.</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-512|(c)">
           <find>claimant by first class mail, along</find>
           <replace>claimant by first class mail or electronic mail, along</replace>
         </codify:find-replace>
@@ -76,7 +76,7 @@
       <text>Section 201 (D.C. Official Code § 4-561.01) is amended to read as follows:</text>
       <include>
         <section>
-          <codify:replace/>
+          <codify:replace codified:doc="D.C. Code" codified:path="§4-561.01"/>
           <num codify:value="4-561.01">201</num>
           <heading>Definitions.</heading>
           <text>For the purposes of <code-cite doc="D.C. Code" path="4|5|IV">this title</code-cite>, the term:</text>
@@ -165,7 +165,7 @@
       <para codify:path="heading">
         <num>(1)</num>
         <text>The section heading is amended by striking the phrase "of sexual assault forensic examination kits" and inserting the phrase "of PERKs" in its place.</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-561.02">
           <find>of sexual assault forensic examination kits</find>
           <replace>of PERKs</replace>
         </codify:find-replace>
@@ -176,7 +176,7 @@
         <para codify:path="text">
           <num>(A)</num>
           <text>The lead-in language is amended by striking the phrase "the kits" and inserting the phrase "any PERK" in its place.</text>
-          <codify:find-replace count="1">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-561.02|(a)">
             <find>the kits</find>
             <replace>any PERK</replace>
           </codify:find-replace>
@@ -186,7 +186,7 @@
           <text>Paragraph (1) is amended to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:replace/>
+              <codify:replace codified:doc="D.C. Code" codified:path="§4-561.02|(a)|(1)"/>
               <num>(1)</num>
               <text>The PERK to the DFS; and</text>
             </para>
@@ -199,7 +199,7 @@
         <text>Subsection (b) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§4-561.02|(b)"/>
             <num>(b)</num>
             <para>
               <num>(1)</num>
@@ -218,7 +218,7 @@
         <text>A new subsection (b-1) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(b)"/>
+            <codify:insert after="(b)" codified:doc="D.C. Code" codified:path="§4-561.02|(b-1)"/>
             <num>(b-1)</num>
             <para>
               <num>(1)</num>
@@ -251,7 +251,7 @@
       <para codify:path="(c)">
         <num>(5)</num>
         <text>Subsection (c) is amended by striking the phrase "from the" and inserting the phrase "after the" in its place.</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-561.02|(c)">
           <find>from the</find>
           <replace>after the</replace>
         </codify:find-replace>
@@ -263,7 +263,7 @@
       <para codify:path="heading">
         <num>(1)</num>
         <text>The section heading is amended by striking the phrase "sexual assault forensic examination kits." and inserting the phrase "PERKs." in its place.</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-561.03">
           <find>sexual assault forensic examination kits.</find>
           <replace>PERKs.</replace>
         </codify:find-replace>
@@ -271,7 +271,7 @@
       <para>
         <num>(2)</num>
         <text>Strike the phrase "the administration of a sexual assault forensic examination kit or for the kit itself" and insert the phrase "a PERK, including the costs of the PERK, its administration, and the processing of the PERK or any biological specimens" in its place.</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-561.03">
           <find>the administration of a sexual assault forensic examination kit or for the kit itself</find>
           <replace>a PERK, including the costs of the PERK, its administration, and the processing of the PERK or any biological specimens</replace>
         </codify:find-replace>
@@ -283,7 +283,7 @@
       <para codify:path="(a)">
         <num>(1)</num>
         <text>Subsection (a) is amended by striking the phrase "the OVS" and inserting the phrase "the OVSJG" in its place.</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-561.04|(a)">
           <find>the OVS</find>
           <replace>the OVSJG</replace>
         </codify:find-replace>
@@ -294,7 +294,7 @@
         <para>
           <num>(A)</num>
           <text>Strike the word "consultant" and insert the phrase "independent expert consultant" in its place.</text>
-          <codify:find-replace count="1">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-561.04|(b)">
             <find>consultant</find>
             <replace>independent expert consultant</replace>
           </codify:find-replace>
@@ -302,7 +302,7 @@
         <para>
           <num>(B)</num>
           <text>Strike the phrase "the OVS" and insert the phrase "the OVSJG" in its place.</text>
-          <codify:find-replace count="1">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-561.04|(b)">
             <find>the OVS</find>
             <replace>the OVSJG</replace>
           </codify:find-replace>
@@ -313,7 +313,7 @@
         <text>Subsection (c) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§4-561.04|(c)"/>
             <num>(c)</num>
             <text>The independent expert consultant shall be retained for a period of one year, with the option for the OVSJG to extend the contract in 1-year increments.</text>
           </para>
@@ -325,7 +325,7 @@
         <text>Subsection (d) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§4-561.04|(d)"/>
             <num>(d)</num>
             <text>The independent expert consultant selected shall have current and recognized expertise in the areas of law enforcement, crime victims' rights, victim advocacy, medical best practices, policy and procedure development, sexual assault, and the investigation or prosecution of sexual assault.</text>
           </para>
@@ -343,7 +343,7 @@
           <section>
             <num>205</num>
             <heading>Duties and obligations of the independent expert consultant.</heading>
-            <codify:find-replace count="1">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-561.05">
               <find>Duties.</find>
               <replace>Duties and obligations of the independent expert consultant.</replace>
             </codify:find-replace>
@@ -354,7 +354,7 @@
       <para codify:path="(1)">
         <num>(2)</num>
         <text>Paragraph (1) is amended by striking the phrase "Task Force established by<code-cite doc="D.C. Code" path="§4-561.15"> section 215</code-cite>" and inserting the phrase "Task Force" in its place.</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-561.05|(1)">
           <find> Task Force established by <cite path="§4-561.15">§ 4-561.15</cite></find>
           <replace>Task Force"</replace>
         </codify:find-replace>
@@ -362,7 +362,7 @@
       <para codify:path="(2)|(C)">
         <num>(3)</num>
         <text>Paragraph (2)(C) is amended by striking the phrase "with current best practices" and inserting the phrase "with best practices" in its place.</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-561.05|(2)|(C)">
           <find>with current best practices</find>
           <replace>with best practices</replace>
         </codify:find-replace>
@@ -370,7 +370,7 @@
       <para codify:path="(3)">
         <num>(4)</num>
         <text>Paragraph (3) is amended by striking the phrase "including;" and inserting the phrase "including:" in its place.</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-561.05|(3)">
           <find>including;</find>
           <replace>including:</replace>
         </codify:find-replace>
@@ -380,7 +380,7 @@
         <text>Paragraph (5) is amended to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:replace/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§4-561.05|(5)"/>
             <num>(5)</num>
             <text>Within 120 days after the date of being retained by the OVSJG, audit all PERKs in storage to determine if all PERKs in which a sexual assault victim reported a sexual assault to MPD have been delivered to the DFS for processing;</text>
           </para>
@@ -390,7 +390,7 @@
       <para codify:path="(7)">
         <num>(6)</num>
         <text>Paragraph (7) is amended by striking the phrase "the consultant" and inserting the phrase "the independent expert consultant" in its place.</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-561.05|(7)">
           <find>the consultant</find>
           <replace>the independent expert consultant</replace>
         </codify:find-replace>
@@ -402,7 +402,7 @@
       <para codify:path="(a)|(1)|(A)|(ii)">
         <num>(1)</num>
         <text>Subsection (a)(1)(A)(ii) is amended by striking the phrase "the consultant" and inserting the phrase "the independent expert consultant" in its place.</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-561.06|(a)|(1)|(A)|(ii)">
           <find>the consultant</find>
           <replace>the independent expert consultant</replace>
         </codify:find-replace>
@@ -412,7 +412,7 @@
         <text>Subsection (b) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§4-561.06|(b)"/>
             <num>(b)</num>
             <para>
               <num>(1)</num>
@@ -440,7 +440,7 @@
         <para>
           <num>(A)</num>
           <text>Strike the phrase "The OVS" and insert the phrase "The OVSJG" in its place.</text>
-          <codify:find-replace count="1">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-561.06|(c)">
             <find>The OVS</find>
             <replace>The OVSJG</replace>
           </codify:find-replace>
@@ -448,7 +448,7 @@
         <para>
           <num>(B)</num>
           <text>Strike the phrase "30 days from the" and insert the phrase "30 days after the" in its place.</text>
-          <codify:find-replace count="1">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-561.06|(c)">
             <find>30 days from the</find>
             <replace>30 days after the</replace>
           </codify:find-replace>
@@ -458,7 +458,7 @@
     <para codify:path="§4-561.08">
       <num>(g)</num>
       <text>Section 208 (D.C. Official Code § 4-561.08) is amended by striking the phrase "sexual assault crimes" and inserting the phrase "sexual assaults" in its place.</text>
-      <codify:find-replace count="1">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-561.08">
         <find>sexual assault crimes</find>
         <replace>sexual assaults</replace>
       </codify:find-replace>
@@ -471,7 +471,7 @@
         <text>Paragraph (4) is amended to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:replace/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§4-561.09|(a)|(4)"/>
             <num>(4)</num>
             <text>The recommendations received from the Case Review Subcommittee and the measures the MPD has taken, if any, to address those recommendations;</text>
           </para>
@@ -481,7 +481,7 @@
       <para codify:path="(5)">
         <num>(2)</num>
         <text>Paragraph (5) is amended by striking the period and inserting the phrase "; and" in its place.</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-561.09|(a)|(5)">
           <find>.</find>
           <replace>; and</replace>
         </codify:find-replace>
@@ -491,7 +491,7 @@
         <text>A new paragraph (6) is added to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert after="(5)"/>
+            <codify:insert after="(5)" codified:doc="D.C. Code" codified:path="§4-561.09|(a)|(6)"/>
             <num>(6)</num>
             <text>The number of sexual assault victims who:</text>
             <para>
@@ -512,7 +512,7 @@
       <text>Section 210 (D.C. Official Code § 4-561.10) is amended to read as follows:</text>
       <include>
         <section>
-          <codify:replace/>
+          <codify:replace codified:doc="D.C. Code" codified:path="§4-561.10"/>
           <num codify:value="4-561.10">210</num>
           <heading>DFS reporting requirement.</heading>
           <text>In the annual report filed pursuant to <code-cite doc="D.C. Code" path="§5-1501.04|(a)|(5)">section 5(a)(5) of the Department of Forensic Sciences Establishment Act of 2011, effective August 17, 2011 (D.C. Law 19-18; D.C. Official Code § 5-1501.04(a)(5))</code-cite>, the Director of the DFS shall provide, for the prior calendar year:</text>
@@ -561,7 +561,7 @@
       <para codify:path="(a)">
         <num>(1)</num>
         <text>Subsection (a) is amended by striking the phrase "Team." and inserting the phrase "Team ("SART")." in its place.</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-561.12|(a)">
           <find>Team.</find>
           <replace>Team ("SART").</replace>
         </codify:find-replace>
@@ -571,7 +571,7 @@
         <text>Subsection (b) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§4-561.12|(b)"/>
             <num>(b)</num>
             <text>The SART shall be a partnership of public and private agencies that:</text>
             <para>
@@ -591,7 +591,7 @@
         <text>Subsection (c) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§4-561.12|(c)"/>
             <num>(c)</num>
             <text>Membership on the SART shall include the following persons:</text>
             <para>
@@ -675,12 +675,12 @@
         <text>New subsections (d-1) and (d-2) are added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(d)"/>
+            <codify:insert after="(d)" codified:doc="D.C. Code" codified:path="§4-561.12|(d-1)"/>
             <num>(d-1)</num>
             <text>A chairperson shall be elected from among the non-governmental members of the SART.</text>
           </para>
           <para>
-            <codify:insert after="(d-1)"/>
+            <codify:insert after="(d-1)" codified:doc="D.C. Code" codified:path="§4-561.12|(d-2)"/>
             <num>(d-2)</num>
             <text>No non-governmental organization or entity shall have more than one representative on the SART.</text>
           </para>
@@ -690,7 +690,7 @@
       <para codify:path="(g)">
         <num>(5)</num>
         <text>Subsection (g) is amended by striking the phrase "does not" and inserting the phrase "shall not" in its place.</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-561.12|(g)">
           <find>does not</find>
           <replace>shall not</replace>
         </codify:find-replace>
@@ -700,7 +700,7 @@
         <text>New subsections (h) and (i) are added to read as follows:</text>
         <include>
           <para>
-            <codify:insert/>
+            <codify:insert codified:doc="D.C. Code" codified:path="§4-561.12|(h)"/>
             <num>(h)</num>
             <para>
               <num>(1)</num>
@@ -712,7 +712,7 @@
             </para>
           </para>
           <para>
-            <codify:insert/>
+            <codify:insert codified:doc="D.C. Code" codified:path="§4-561.12|(i)"/>
             <num>(i)</num>
             <text>In addition to the members listed in subsection (c) of this section, the SART may expand its membership by establishing a membership application, evaluation, and approval process for:</text>
             <para>
@@ -738,7 +738,7 @@
       <para>
         <num>(1)</num>
         <text>The existing text is designated as subsection (a).</text>
-        <codify:redesignate-para num-value="(a)"/>
+        <codify:redesignate-para num-value="(a)" codified:doc="D.C. Code" codified:path="§4-561.13"/>
       </para>
       <para codify:path="(a)">
         <num>(2)</num>
@@ -746,7 +746,7 @@
         <para codify:path="(1)">
           <num>(A)</num>
           <text>Paragraph (1) is amended by striking the phrase "victims of sexual assault" and inserting the phrase "sexual assault victims" in its place.</text>
-          <codify:find-replace count="1">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-561.13|(1)">
             <find>victims of sexual assault</find>
             <replace>sexual assault victims</replace>
           </codify:find-replace>
@@ -756,7 +756,7 @@
           <text>Paragraph (2) is amended to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:replace/>
+              <codify:replace codified:doc="D.C. Code" codified:path="§4-561.13|(2)"/>
               <num>(2)</num>
               <text>Conduct regular case reviews, through the Case Review Subcommittee, of all parties involved in sexual assault responses involving sexual assault victims 18 years of age or older, including a review of sexual assault reports and investigations by the MPD and cases reported to any member of the SART;</text>
             </para>
@@ -769,7 +769,7 @@
           <para>
             <num>(i)</num>
             <text>Strike the phrase "Case Review Subcommittee, established by section 214," and insert the phrase "Case Review Subcommittee" in its place.</text>
-            <codify:find-replace count="1">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-561.13|(3)">
               <find>Case Review Subcommittee, established by <cite path="§4-561.14">§ 4-561.14</cite>, </find>
               <replace>Case Review Subcommittee</replace>
             </codify:find-replace>
@@ -777,7 +777,7 @@
           <para>
             <num>(ii)</num>
             <text>Strike the period and insert a semicolon in its place.</text>
-            <codify:find-replace count="1">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-561.13|(3)">
               <find>.</find>
               <replace>;</replace>
             </codify:find-replace>
@@ -788,12 +788,12 @@
           <text>New paragraphs (4) and (5) are added to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:insert/>
+              <codify:insert codified:doc="D.C. Code" codified:path="§4-561.13|(4)"/>
               <num>(4)</num>
               <text>Establish a Feedback Review Committee for the purpose of receiving and investigating all complaints and comments from sexual assault victims, including complaints and comments regarding the United States Attorney's Office for the District of Columbia; and</text>
             </para>
             <para>
-              <codify:insert/>
+              <codify:insert codified:doc="D.C. Code" codified:path="§4-561.13|(5)"/>
               <num>(5)</num>
               <text>By January 1, 2022, submit a report to the Mayor and the Council that includes the following:</text>
               <para>
@@ -830,7 +830,7 @@
         <text>A new subsection (b) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert/>
+            <codify:insert codified:doc="D.C. Code" codified:path="§4-561.13|(b)"/>
             <num>(b)</num>
             <text>Each SART member shall provide the following data to other members of the SART:</text>
             <para>
@@ -864,7 +864,7 @@
       <para codify:path="(a)">
         <num>(1)</num>
         <text>Subsection (a) is amended by striking the phrase "Review Subcommittee" and inserting the phrase "Review Subcommittee ("Case Review Subcommittee")" in its place.</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-561.14|(a)">
           <find>Review Subcommittee</find>
           <replace>Review Subcommittee ("Case Review Subcommittee")</replace>
         </codify:find-replace>
@@ -875,7 +875,7 @@
         <para codify:path="text">
           <num>(A)</num>
           <text>The lead-in language is amended by striking the phrase "of, at a minimum, the" and inserting the phrase "of the" in its place."</text>
-          <codify:find-replace count="1">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-561.14|(b)">
             <find>of, at a minimum, the</find>
             <replace>of the</replace>
           </codify:find-replace>
@@ -883,7 +883,7 @@
         <para codify:path="(2)">
           <num>(B)</num>
           <text>Paragraph (2) is amended by striking the phrase "or his or her" and inserting the phrase "or the Commander's" in its place.</text>
-          <codify:find-replace count="1">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-561.14|(b)|(2)">
             <find>or his or her</find>
             <replace>or the Commander's</replace>
           </codify:find-replace>
@@ -891,7 +891,7 @@
         <para codify:path="(3)">
           <num>(C)</num>
           <text>Paragraph (3) is amended by striking the phrase "or his or her" and inserting the phrase "or the Director's" in its place.</text>
-          <codify:find-replace count="1">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-561.14|(b)|(3)">
             <find>or his or her</find>
             <replace>or the Director's</replace>
           </codify:find-replace>
@@ -899,7 +899,7 @@
         <para codify:path="(4)">
           <num>(D)</num>
           <text>Paragraph (4) is amended by striking the phrase "the OVS" and inserting the phrase "the OVSJG" in its place.</text>
-          <codify:find-replace count="1">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-561.14|(b)|(4)">
             <find>the OVS</find>
             <replace>the OVSJG</replace>
           </codify:find-replace>
@@ -907,7 +907,7 @@
         <para codify:path="(5)">
           <num>(E)</num>
           <text>Subsection (5) is amended by striking the phrase "or his or her" and inserting the phrase "or the Director's" in its place.</text>
-          <codify:find-replace count="1">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-561.14|(b)|(5)">
             <find>or his or her</find>
             <replace>or the Director's</replace>
           </codify:find-replace>
@@ -915,7 +915,7 @@
         <para codify:path="(6)">
           <num>(F)</num>
           <text>Subsection (6) is amended by striking the phrase "or his or her" and inserting the phrase "or the Director's" in its place.</text>
-          <codify:find-replace count="1">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-561.14|(b)|(6)">
             <find>or his or her</find>
             <replace>or the Director's</replace>
           </codify:find-replace>
@@ -926,7 +926,7 @@
         <text>Subsection (c) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§4-561.14|(c)"/>
             <num>(c)</num>
             <para>
               <num>(1)</num>
@@ -955,7 +955,7 @@
           <para>
             <num>(d)</num>
             <text>In addition to the duties set forth in subsection (c) of this section, the Case Review Subcommittee shall, for cases involving sexual assault victims 18 years of age or older:</text>
-            <codify:find-replace count="1">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-561.14|(d)">
               <find>In addition the duties set forth in subsection (c) of this section, the Case Review Subcommittee shall:</find>
               <replace>In addition to the duties set forth in subsection (c) of this section, the Case Review Subcommittee shall, for cases involving sexual assault victims 18 years of age or older:</replace>
             </codify:find-replace>
@@ -966,7 +966,7 @@
       <para codify:path="(e)">
         <num>(5)</num>
         <text>Subsection (e) is amended by striking the phrase "does not" and inserting the phrase "shall not" in its place.</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-561.14|(e)">
           <find>does not</find>
           <replace>shall not</replace>
         </codify:find-replace>
@@ -982,7 +982,7 @@
           <para>
             <num>(a)</num>
             <text>Beginning October 1, 2014, the OVSJG shall establish a Sexual Assault Victim Rights Task Force ("Task Force") to study nationally recognized best practices and develop recommendations regarding:</text>
-            <codify:find-replace count="1">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-561.15|(a)">
               <find>Beginning October 1, 2014, the OVS shall establish a Sexual Assault Victim Rights Task Force to study nationally recognized best practices and develop recommendations regarding:</find>
               <replace>Beginning October 1, 2014, the OVSJG shall establish a Sexual Assault Victim Rights Task Force ("Task Force") to study nationally recognized best practices and develop recommendations regarding:</replace>
             </codify:find-replace>
@@ -993,7 +993,7 @@
       <para codify:path="(b)|(8)">
         <num>(2)</num>
         <text>Subsection (b)(8) is amended by striking the phrase "the OVS" and inserting the phrase "the OVSJG" in its place.</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-561.15|(b)|(8)">
           <find>the OVS</find>
           <replace>the OVSJG</replace>
         </codify:find-replace>
@@ -1008,7 +1008,7 @@
       <text>Paragraph (3) is amended to read as follows:</text>
       <include lvl="1">
         <para>
-          <codify:replace/>
+          <codify:replace codified:doc="D.C. Code" codified:path="§7-2123|(3)"/>
           <num>(3)</num>
           <text>Inform each victim of sexual assault, orally and in writing, in a language that the victim understands, of the:</text>
           <para>
@@ -1026,7 +1026,7 @@
     <para codify:path="(4)">
       <num>(b)</num>
       <text>Paragraph (4) is amended by striking the period and inserting the phrase "; and" in its place.</text>
-      <codify:find-replace count="1">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-2123|(4)">
         <find>.</find>
         <replace>; and</replace>
       </codify:find-replace>
@@ -1036,7 +1036,7 @@
       <text>A new paragraph (5) is added to read as follows:</text>
       <include lvl="1">
         <para>
-          <codify:insert path="(a)"/>
+          <codify:insert path="(a)" codified:doc="D.C. Code" codified:path="§7-2123|(5)"/>
           <num>(5)</num>
           <text>If the sexual assault victim, who is 13 years of age or older, consents, immediately notify the sexual assault victim advocate dispatch system described in <code-cite doc="D.C. Code" path="§23-1909|(e)">D.C. Official Code § 23-1909(e)</code-cite>.</text>
         </para>
@@ -1055,7 +1055,7 @@
           <prefix>§</prefix>
           <num>14-312</num>
           <heading>Sexual assault counselors.</heading>
-          <codify:find-replace count="1">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§14-312">
             <find>Sexual assault victim advocates</find>
             <replace>Sexual assault counselors</replace>
           </codify:find-replace>
@@ -1071,7 +1071,7 @@
         <text>Paragraph (1) is amended to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:replace/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§14-312|(a)|(1)"/>
             <num>(1)</num>
             <text>"Confidential communication" means:</text>
             <para>
@@ -1091,7 +1091,7 @@
         <text>Paragraph (2) is amended to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:replace/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§14-312|(a)|(2)"/>
             <num>(2)</num>
             <text>"DC SANE Program" means the DC Sexual Assault Nurse Examiner Program that provides comprehensive medical forensic care to sexual assault victims including:</text>
             <para>
@@ -1115,7 +1115,7 @@
         <text>Paragraph (5) is amended to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:replace/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§14-312|(a)|(5)"/>
             <num>(5)</num>
             <text>"Sexual assault" means any of the following offenses: §§ <cite doc="D.C. Code" path="§22-1834">22-1834</cite> (sex trafficking of children); <cite doc="D.C. Code" path="§22-2704">22-2704</cite> (abducting or enticing child from his or her home for the purposes of prostitution; harboring such child); <cite doc="D.C. Code" path="§22-2705">22-2705</cite> (pandering; inducing or compelling an individual to engage in prostitution); <cite doc="D.C. Code" path="§22-2706">22-2706</cite> (compelling an individual to live life of prostitution against his or her will); <cite doc="D.C. Code" path="§22-2708">22-2708</cite> (causing spouse or domestic partner to live in prostitution); <cite doc="D.C. Code" path="§22-2709">22-2709</cite> (detaining an individual in disorderly house for debt there contracted); <cite doc="D.C. Code" path="§22-1901">22-1901</cite> (incest); <cite doc="D.C. Code" path="§22-3002">22-3002</cite> (first degree sexual abuse); <cite doc="D.C. Code" path="§22-3003">22-3003</cite> (second degree sexual abuse); <cite doc="D.C. Code" path="§22-3004">22-3004</cite> (third degree sexual abuse); <cite doc="D.C. Code" path="§22-3005">22-3005</cite> (fourth degree sexual abuse); <cite doc="D.C. Code" path="§22-3006">22-3006</cite> (misdemeanor sexual abuse); <cite doc="D.C. Code" path="§22-3008">22-3008</cite> (first degree child sexual abuse); <cite doc="D.C. Code" path="§22-3009">22-3009</cite> (second degree child sexual abuse); <cite doc="D.C. Code" path="§22-3009.01">22-3009.01</cite> (first degree sexual abuse of a minor); <cite doc="D.C. Code" path="§22-3009.02">22-3009.02</cite> (second degree sexual abuse of a minor); <cite doc="D.C. Code" path="§22-3009.03">22-3009.03</cite> (first degree sexual abuse of a secondary education student); <cite doc="D.C. Code" path="§22-3009.04">22-3009.04</cite> (second degree sexual abuse of a secondary education student); <cite doc="D.C. Code" path="§22-3010">22-3010</cite> (enticing a child or minor);<cite doc="D.C. Code" path="§22-3010.01">22-3010.01</cite> (misdemeanor sexual abuse of a child or minor); <cite doc="D.C. Code" path="§22-3010.02">22-3010.02</cite> (arranging for sexual contact with a real or fictitious child); <cite doc="D.C. Code" path="§22-3013">22-3013</cite> (first degree sexual abuse of a ward, patient, client, or prisoner); <cite doc="D.C. Code" path="§22-3014">22-3014</cite> (second degree sexual abuse of a ward, patient, client, or prisoner); <cite doc="D.C. Code" path="§22-3015">22-3015</cite> (first degree sexual abuse of a patient or client); <cite doc="D.C. Code" path="§22-3016">22-3016</cite> (second degree sexual abuse of a patient or client); <cite doc="D.C. Code" path="§22-3018">22-3018</cite> (attempts to commit sexual offenses); or <cite doc="D.C. Code" path="§22-3102">22-3102</cite> (knowingly using a minor in a sexual performance or promoting a sexual performance by a minor).</text>
           </para>
@@ -1127,7 +1127,7 @@
         <text>A new paragraph (5A) is added to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert after="(5)"/>
+            <codify:insert after="(5)" codified:doc="D.C. Code" codified:path="§14-312|(a)|(5A)"/>
             <num>(5A)</num>
             <text>"Sexual assault counselor" shall have the same meaning as provided in <cite doc="D.C. Code" path="§23-1907|(10)">§ 23-1907(10)</cite>.</text>
           </para>
@@ -1139,7 +1139,7 @@
         <text>Paragraph (6) is amended to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:replace/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§14-312|(a)|(6)"/>
             <num>(6)</num>
             <text>"Sexual assault victim" means any individual against whom a sexual assault has been committed or is alleged to have been committed, including:</text>
             <para>
@@ -1157,7 +1157,7 @@
       <para codify:path="(7)">
         <num>(6)</num>
         <text>Paragraph (7) is repealed.</text>
-        <codify:repeal/>
+        <codify:repeal codified:doc="D.C. Code" codified:path="§14-312|(a)|(7)"/>
       </para>
     </para>
     <para codify:path="(b)">
@@ -1169,7 +1169,7 @@
         <para codify:path="text">
           <num>(A)</num>
           <text>The lead-in language is amended by striking the phrase "victim advocate shall" and inserting the phrase "counselor shall" in its place.</text>
-          <codify:find-replace count="1">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§14-312|(b)|(1)">
             <find>victim advocate shall</find>
             <replace>counselor shall</replace>
           </codify:find-replace>
@@ -1177,7 +1177,7 @@
         <para codify:path="(F)">
           <num>(B)</num>
           <text>Subparagraph (F) is amended by striking the phrase "victim advocate" and inserting the word "counselor" in its place.</text>
-          <codify:find-replace count="1">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§14-312|(b)|(1)|(F)">
             <find>victim advocate</find>
             <replace>counselor</replace>
           </codify:find-replace>
@@ -1188,7 +1188,7 @@
         <text>Paragraph (3) is amended to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:replace/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§14-312|(b)|(3)"/>
             <num>(3)</num>
             <text>The confidentiality of a confidential communication shall not be waived by the presence of, or disclosure to a:</text>
             <para>
@@ -1212,12 +1212,12 @@
         <text>New paragraphs (4) and (5) are added to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert/>
+            <codify:insert codified:doc="D.C. Code" codified:path="§14-312|(b)|(4)"/>
             <num>(4)</num>
             <text>Except as provided in this subsection, no sexual assault counselor shall be compelled to reveal a confidential communication in any civil, criminal, or administrative proceeding, unless the sexual assault victim has given written consent.</text>
           </para>
           <para>
-            <codify:insert/>
+            <codify:insert codified:doc="D.C. Code" codified:path="§14-312|(b)|(5)"/>
             <num>(5)</num>
             <text>Notwithstanding <cite doc="D.C. Code" path="§4-1321.02">§ 4-1321.02</cite>, sexual assault counselors shall be exempt from mandatory reporting of any crime disclosed in a confidential communication unless the sexual assault counselor has actual knowledge that the crime disclosed to the sexual assault counselor involves:</text>
             <para>
@@ -1242,7 +1242,7 @@
       <text>A new subsection (b-1) is added to read as follows:</text>
       <include>
         <para>
-          <codify:insert after="(b)"/>
+          <codify:insert after="(b)" codified:doc="D.C. Code" codified:path="§14-312|(b-1)"/>
           <num>(b-1)</num>
           <text>The presence of a sexual assault counselor shall not waive any privilege otherwise guaranteed by law.</text>
         </para>
@@ -1255,7 +1255,7 @@
     <text>Section 252(c) of the Anti-Sexual Abuse Act of 1994, effective May 23, 1995 (D.C. Law 19-315; D.C. Official Code § 22-3020.52(c)), is amended by adding a new paragraph (3) to read as follows:</text>
     <include lvl="1">
       <para>
-        <codify:insert/>
+        <codify:insert codified:doc="D.C. Code" codified:path="§22-3020.52|(c)|(3)"/>
         <num>(3)</num>
         <text>Sexual assault counselors shall be exempt from reporting pursuant to subsection (a) of this section any crime disclosed in a confidential communication unless the sexual assault counselor has actual knowledge that the crime disclosed to the sexual assault counselor involves:</text>
         <para>
@@ -1280,7 +1280,7 @@
     <para codify:path="(6)">
       <num>(a)</num>
       <text>Paragraph (6) is amended by striking the phrase "Director, District of Columbia Department" and inserting the phrase "Director, Department" in its place.</text>
-      <codify:find-replace count="1">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§22-4233|(a)|(6)">
         <find>Director, District of Columbia Department</find>
         <replace>Director, Department</replace>
       </codify:find-replace>
@@ -1288,7 +1288,7 @@
     <para codify:path="(15)">
       <num>(b)</num>
       <text>Paragraph (15) is amended by striking the phrase "; and" and inserting a semicolon in its place.</text>
-      <codify:find-replace count="1">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§22-4233|(a)|(15)">
         <find>; and</find>
         <replace>;</replace>
       </codify:find-replace>
@@ -1296,7 +1296,7 @@
     <para codify:path="(18)">
       <num>(c)</num>
       <text>Paragraph (18) is amended by striking the period and inserting the phrase "; and" in its place.</text>
-      <codify:find-replace count="1">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§22-4233|(a)|(18)">
         <find>.</find>
         <replace>; and</replace>
       </codify:find-replace>
@@ -1306,7 +1306,7 @@
       <text>A new paragraph (19) is added to read as follows:</text>
       <include lvl="1">
         <para>
-          <codify:insert/>
+          <codify:insert codified:doc="D.C. Code" codified:path="§22-4233|(a)|(19)"/>
           <num>(19)</num>
           <text>Director, Office of Victim Services and Justice Grants.</text>
         </para>
@@ -1326,7 +1326,7 @@
       <text>Section 23-1907 is amended to read as follows:</text>
       <include>
         <para>
-          <codify:replace/>
+          <codify:replace codified:doc="D.C. Code" codified:path="§23-1907|(a)"/>
           <num undesignated="true">(a)</num>
           <text>For the purposes of this subchapter, the term:</text>
           <para>
@@ -1514,7 +1514,7 @@
       <text>Section 23-1908 is amended to read as follows:</text>
       <include>
         <section>
-          <codify:replace/>
+          <codify:replace codified:doc="D.C. Code" codified:path="§23-1908"/>
           <prefix>§</prefix>
           <num>23-1908</num>
           <heading>Sexual assault victims' rights.</heading>
@@ -1559,7 +1559,7 @@
       <text>Section 23-1909 is amended to read as follows:</text>
       <include>
         <section>
-          <codify:replace path="§23-1909"/>
+          <codify:replace path="§23-1909" codified:doc="D.C. Code" codified:path="§23-1909"/>
           <prefix>§</prefix>
           <num>23-1909</num>
           <heading>Sexual assault victim advocates and sexual assault youth victim advocates; sexual assault victim advocate dispatch system.</heading>
@@ -1692,7 +1692,7 @@
       <text>Section 23-1910 is amended to read as follows:</text>
       <include>
         <section>
-          <codify:replace path="§23-1910"/>
+          <codify:replace path="§23-1910" codified:doc="D.C. Code" codified:path="§23-1910"/>
           <prefix>§</prefix>
           <num>23-1910</num>
           <heading>Access to information.</heading>
@@ -1761,54 +1761,54 @@
     <para>
       <num>(a)</num>
       <text>Except as provided in subsection (b) of this section, sections 3, 4, 5, 6, and 8 shall apply as of October 1, 2020.</text>
-      <codify:annotation applicability="effective" doc="D.C. Law 23-57" path="§3" type="Applicability" history="false" display-template=""><cite doc="D.C. Law 23-57" path="§9|(a)">Section 9(a) of D.C. Law 23-57</cite> provided that the amendments made to this section shall apply as of October 1, 2020.  Therefore those amendments shall be implemented for this section on October 1, 2020.</codify:annotation>
-      <codify:applicability doc="D.C. Law 23-57" path="§3" date="notfunded" history="false" display-template=""/>
-      <codify:find-replace doc="D.C. Code" path="§4-561.02" count="1" history="false" display-template="">
+      <codify:annotation applicability="effective" doc="D.C. Law 23-57" path="§3" type="Applicability" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-561.01"><cite doc="D.C. Law 23-57" path="§9|(a)">Section 9(a) of D.C. Law 23-57</cite> provided that the amendments made to this section shall apply as of October 1, 2020.  Therefore those amendments shall be implemented for this section on October 1, 2020.</codify:annotation>
+      <codify:applicability doc="D.C. Law 23-57" path="§3" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-561.01"/>
+      <codify:find-replace doc="D.C. Code" path="§4-561.02" count="1" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-561.02">
         <find>Not Funded</find>
         <replace>[Not Applicable]</replace>
       </codify:find-replace>
-      <codify:find-replace doc="D.C. Code" path="§4-561.09" count="1" history="false" display-template="">
+      <codify:find-replace doc="D.C. Code" path="§4-561.09" count="1" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-561.09">
         <find>Not Funded</find>
         <replace>[Not Applicable]</replace>
       </codify:find-replace>
-      <codify:find-replace doc="D.C. Code" path="§4-561.12" count="4" history="false" display-template="">
+      <codify:find-replace doc="D.C. Code" path="§4-561.12" count="4" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-561.12">
         <find>Not Funded</find>
         <replace>[Not Applicable]</replace>
       </codify:find-replace>
-      <codify:find-replace doc="D.C. Code" path="§4-561.13" count="3" history="false" display-template="">
+      <codify:find-replace doc="D.C. Code" path="§4-561.13" count="3" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-561.13">
         <find>Not Funded</find>
         <replace>[Not Applicable]</replace>
       </codify:find-replace>
-      <codify:annotation applicability="effective" doc="D.C. Law 23-57" path="§4" type="Applicability" history="false" display-template=""><cite doc="D.C. Law 23-57" path="§9|(a)">Section 9(a) of D.C. Law 23-57</cite> provided that the amendments made to this section shall apply as of October 1, 2020.  Therefore those amendments shall be implemented for this section on October 1, 2020.</codify:annotation>
-      <codify:applicability doc="D.C. Law 23-57" path="§4" date="notfunded" history="false" display-template=""/>
-      <codify:find-replace doc="D.C. Code" path="§7-2123" count="1" history="false" display-template="">
+      <codify:annotation applicability="effective" doc="D.C. Law 23-57" path="§4" type="Applicability" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-2123|(3)"><cite doc="D.C. Law 23-57" path="§9|(a)">Section 9(a) of D.C. Law 23-57</cite> provided that the amendments made to this section shall apply as of October 1, 2020.  Therefore those amendments shall be implemented for this section on October 1, 2020.</codify:annotation>
+      <codify:applicability doc="D.C. Law 23-57" path="§4" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-2123|(3)"/>
+      <codify:find-replace doc="D.C. Code" path="§7-2123" count="1" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-2123">
         <find>Not Funded</find>
         <replace>[Not Applicable]</replace>
       </codify:find-replace>
-      <codify:annotation applicability="effective" doc="D.C. Law 23-57" path="§5" type="Applicability" history="false" display-template=""><cite doc="D.C. Law 23-57" path="§9|(a)">Section 9(a) of D.C. Law 23-57</cite> provided that the amendments made to this section shall apply as of October 1, 2020.  Therefore those amendments shall be implemented for this section on October 1, 2020.</codify:annotation>
-      <codify:applicability doc="D.C. Law 23-57" path="§5" date="notfunded" history="false" display-template=""/>
-      <codify:annotation applicability="effective" doc="D.C. Law 23-57" path="§6" type="Applicability" history="false" display-template=""><cite doc="D.C. Law 23-57" path="§9|(a)">Section 9(a) of D.C. Law 23-57</cite> provided that the amendments made to this section shall apply as of October 1, 2020.  Therefore those amendments shall be implemented for this section on October 1, 2020.</codify:annotation>
-      <codify:applicability doc="D.C. Law 23-57" path="§6" date="notfunded" history="false" display-template=""/>
-      <codify:find-replace doc="D.C. Code" path="§14-312" count="4" history="false" display-template="">
+      <codify:annotation applicability="effective" doc="D.C. Law 23-57" path="§5" type="Applicability" history="false" display-template="" codified:doc="D.C. Code" codified:path="§14-312"><cite doc="D.C. Law 23-57" path="§9|(a)">Section 9(a) of D.C. Law 23-57</cite> provided that the amendments made to this section shall apply as of October 1, 2020.  Therefore those amendments shall be implemented for this section on October 1, 2020.</codify:annotation>
+      <codify:applicability doc="D.C. Law 23-57" path="§5" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§14-312"/>
+      <codify:annotation applicability="effective" doc="D.C. Law 23-57" path="§6" type="Applicability" history="false" display-template="" codified:doc="D.C. Code" codified:path="§22-3020.52|(c)|(3)"><cite doc="D.C. Law 23-57" path="§9|(a)">Section 9(a) of D.C. Law 23-57</cite> provided that the amendments made to this section shall apply as of October 1, 2020.  Therefore those amendments shall be implemented for this section on October 1, 2020.</codify:annotation>
+      <codify:applicability doc="D.C. Law 23-57" path="§6" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§22-3020.52|(c)|(3)"/>
+      <codify:find-replace doc="D.C. Code" path="§14-312" count="4" history="false" display-template="" codified:doc="D.C. Code" codified:path="§14-312">
         <find>Not Funded</find>
         <replace>[Not Applicable]</replace>
       </codify:find-replace>
-      <codify:find-replace doc="D.C. Code" path="§22-3020.52" count="1" history="false" display-template="">
+      <codify:find-replace doc="D.C. Code" path="§22-3020.52" count="1" history="false" display-template="" codified:doc="D.C. Code" codified:path="§22-3020.52">
         <find>Not Funded</find>
         <replace>[Not Applicable]</replace>
       </codify:find-replace>
-      <codify:annotation applicability="effective" doc="D.C. Law 23-57" path="§8|(b)" type="Applicability" history="false" display-template=""><cite doc="D.C. Law 23-57" path="§9|(a)">Section 9(a) of D.C. Law 23-57</cite> provided that the amendments made to this section shall apply as of October 1, 2020.  Therefore those amendments shall be implemented for this section on October 1, 2020.</codify:annotation>
-      <codify:applicability doc="D.C. Law 23-57" path="§8|(b)" date="notfunded" history="false" display-template=""/>
-      <codify:annotation applicability="effective" doc="D.C. Law 23-57" path="§8|(c)" type="Applicability" history="false" display-template=""><cite doc="D.C. Law 23-57" path="§9|(a)">Section 9(a) of D.C. Law 23-57</cite> provided that the amendments made to this section shall apply as of October 1, 2020.  Therefore those amendments shall be implemented for this section on October 1, 2020.</codify:annotation>
-      <codify:applicability doc="D.C. Law 23-57" path="§8|(c)" date="notfunded" history="false" display-template=""/>
-      <codify:annotation applicability="effective" doc="D.C. Law 23-57" path="§8|(e)" type="Applicability" history="false" display-template=""><cite doc="D.C. Law 23-57" path="§9|(a)">Section 9(a) of D.C. Law 23-57</cite> provided that the amendments made to this section shall apply as of October 1, 2020.  Therefore those amendments shall be implemented for this section on October 1, 2020.</codify:annotation>
-      <codify:applicability doc="D.C. Law 23-57" path="§8|(e)" date="notfunded" history="false" display-template=""/>
+      <codify:annotation applicability="effective" doc="D.C. Law 23-57" path="§8|(b)" type="Applicability" history="false" display-template="" codified:doc="D.C. Code" codified:path="§23-1907|(a)"><cite doc="D.C. Law 23-57" path="§9|(a)">Section 9(a) of D.C. Law 23-57</cite> provided that the amendments made to this section shall apply as of October 1, 2020.  Therefore those amendments shall be implemented for this section on October 1, 2020.</codify:annotation>
+      <codify:applicability doc="D.C. Law 23-57" path="§8|(b)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§23-1907|(a)"/>
+      <codify:annotation applicability="effective" doc="D.C. Law 23-57" path="§8|(c)" type="Applicability" history="false" display-template="" codified:doc="D.C. Code" codified:path="§23-1908"><cite doc="D.C. Law 23-57" path="§9|(a)">Section 9(a) of D.C. Law 23-57</cite> provided that the amendments made to this section shall apply as of October 1, 2020.  Therefore those amendments shall be implemented for this section on October 1, 2020.</codify:annotation>
+      <codify:applicability doc="D.C. Law 23-57" path="§8|(c)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§23-1908"/>
+      <codify:annotation applicability="effective" doc="D.C. Law 23-57" path="§8|(e)" type="Applicability" history="false" display-template="" codified:doc="D.C. Code" codified:path="§23-1910"><cite doc="D.C. Law 23-57" path="§9|(a)">Section 9(a) of D.C. Law 23-57</cite> provided that the amendments made to this section shall apply as of October 1, 2020.  Therefore those amendments shall be implemented for this section on October 1, 2020.</codify:annotation>
+      <codify:applicability doc="D.C. Law 23-57" path="§8|(e)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§23-1910"/>
     </para>
     <para>
       <num>(b)</num>
       <text>The amendatory section 23-1909(c) within section 8(d) shall apply as of the effective date of this act.</text>
-      <codify:annotation applicability="effective" doc="D.C. Law 23-57" path="§8|(d)" type="Applicability" history="false" display-template=""><cite doc="D.C. Law 23-57" path="§9|(b)">Section 9(b) of D.C. Law 23-57</cite> provided that the changes made to this section by <cite doc="D.C. Law 23-57" path="§8|(d)">section 8(d) of D.C. Law 23-57</cite> shall apply as of March 3, 2020.</codify:annotation>
-      <codify:applicability doc="D.C. Law 23-57" path="§8|(e)" date="notfunded" history="false" display-template=""/>
+      <codify:annotation applicability="effective" doc="D.C. Law 23-57" path="§8|(d)" type="Applicability" history="false" display-template="" codified:doc="D.C. Code" codified:path="§23-1909"><cite doc="D.C. Law 23-57" path="§9|(b)">Section 9(b) of D.C. Law 23-57</cite> provided that the changes made to this section by <cite doc="D.C. Law 23-57" path="§8|(d)">section 8(d) of D.C. Law 23-57</cite> shall apply as of March 3, 2020.</codify:annotation>
+      <codify:applicability doc="D.C. Law 23-57" path="§8|(e)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§23-1910"/>
     </para>
   </section>
   <section>
