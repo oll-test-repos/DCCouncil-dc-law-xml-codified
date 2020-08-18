@@ -60,7 +60,7 @@
       <para codify:path="(2)">
         <num>(1)</num>
         <text>Paragraph (2) is amended by striking the word "and".</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§21-2221.03|(b)|(2)">
           <find>and</find>
           <replace/>
         </codify:find-replace>
@@ -68,7 +68,7 @@
       <para codify:path="(3)">
         <num>(2)</num>
         <text>Paragraph (3) is amended by striking the period and inserting the phrase "; and" in its place.</text>
-        <codify:find-replace count="1" display-template="">
+        <codify:find-replace count="1" display-template="" codified:doc="D.C. Code" codified:path="§21-2221.03|(b)|(3)">
           <find>.</find>
           <replace>; and</replace>
         </codify:find-replace>
@@ -78,27 +78,27 @@
         <text>A new paragraph (4) is added to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert display-template=""/>
+            <codify:insert display-template="" codified:doc="D.C. Code" codified:path="§21-2221.03|(b)|(4)"/>
             <num>(4)</num>
             <text>Develop an electronic MOST Form pursuant to <cite doc="D.C. Code" path="§21-2221.14a">§ 21-2221.14a</cite>.</text>
           </para>
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:not-funded-anno doc="D.C. Code" path="§21-2221.03" applicability-path="§3" display-template=""/>
+      <codify:not-funded-anno doc="D.C. Code" path="§21-2221.03" applicability-path="§3" display-template="" codified:doc="D.C. Code" codified:path="§21-2221.03" codified:display="Note"/>
     </para>
     <para codify:path="§21-2221.14">
       <num>(b)</num>
       <text>Section 21-2221.14 is repealed.</text>
-      <codify:repeal/>
-      <codify:not-funded-anno doc="D.C. Code" path="§21-2221.14" applicability-path="§3" action="repeal of" display-template=""/>
+      <codify:repeal codified:doc="D.C. Code" codified:path="§21-2221.14"/>
+      <codify:not-funded-anno doc="D.C. Code" path="§21-2221.14" applicability-path="§3" action="repeal of" display-template="" codified:doc="D.C. Code" codified:path="§21-2221.14" codified:display="Note"/>
     </para>
     <para>
       <num>(c)</num>
       <text>A new section 21-2221.14a is added to read as follows:</text>
       <include>
         <section>
-          <codify:insert path="21|22|II" after="§21-2221.14"/>
+          <codify:insert path="21|22|II" after="§21-2221.14" codified:doc="D.C. Code" codified:path="§21-2221.14a"/>
           <prefix>§</prefix>
           <num>21-2221.14a</num>
           <heading>Establishment of an electronic medical orders for scope of treatment registry.</heading>
@@ -129,7 +129,7 @@
         </section>
       </include>
       <aftertext>.</aftertext>
-      <codify:not-funded-anno doc="D.C. Code" path="§21-2221.14a" applicability-path="§3" action="creation of" display-template=""/>
+      <codify:not-funded-anno doc="D.C. Code" path="§21-2221.14a" applicability-path="§3" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§21-2221.14a" codified:display="Note"/>
     </para>
   </section>
   <section>
@@ -138,7 +138,7 @@
     <para>
       <num>(a)</num>
       <text>This act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-      <codify:applicability doc="D.C. Law 23-62" date="notfunded" history="false" display-template=""/>
+      <codify:applicability doc="D.C. Law 23-62" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§21-2221.03|(b)|(2)"/>
     </para>
     <para>
       <num>(b)</num>
