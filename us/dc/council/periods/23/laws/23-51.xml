@@ -50,7 +50,7 @@
           <text>Paragraph (30) is amended to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:replace/>
+              <codify:replace codified:doc="D.C. Code" codified:path="§25-101|(30)"/>
               <num>(30)</num>
               <text>"Legitimate theater" means the premises in which the principal business shall be the operation of live theatrical, operatic, or dance performances, the operation of recreational facilities, the viewing of motion picture films, or such other lawful adult entertainment as the Board, giving due regard to the convenience of the public and the strict avoidance of sales prohibited by <cite doc="D.C. Code" path="25">this title</cite>, shall classify as a legitimate theater.</text>
             </para>
@@ -62,7 +62,7 @@
           <text>A new paragraph (49A) is added to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:insert after="(49)"/>
+              <codify:insert after="(49)" codified:doc="D.C. Code" codified:path="§25-101|(49A)"/>
               <num>(49A)</num>
               <text>"Sports wagering" shall have the same meaning as in <code-cite doc="D.C. Code" path="§36-601.01|(c)|(17)">section 4(c)(17) of the Law to Legalize Lotteries, Daily Numbers Games, and Bingo and Raffles for Charitable Purposes in the District of Columbia, effective March 10, 1981 (D.C. Law 3-172; D.C. Official Code § 36-601.01(c)(17))</code-cite>.</text>
             </para>
@@ -80,7 +80,7 @@
             <para>
               <num>(g)</num>
               <para>
-                <codify:replace/>
+                <codify:replace codified:doc="D.C. Code" codified:path="§25-113|(g)|(1)"/>
                 <num>(1)</num>
                 <text>A multipurpose facility license shall be issued to legitimate theaters, universities, museums, conference centers, art galleries, facilities for the performance of sports, cultural, or tourism-related activities, and to indoor parks, buildings, and facilities that primarily serve as recreational playgrounds or workspaces.</text>
               </para>
@@ -97,14 +97,14 @@
             <para>
               <num>(I)</num>
               <text>The existing text is designated as subparagraph (A).</text>
-              <codify:redesignate-para num-value="(A)"/>
+              <codify:redesignate-para num-value="(A)" codified:doc="D.C. Code" codified:path="§25-113|(i)|(1)"/>
             </para>
             <para>
               <num>(II)</num>
               <text>A new subparagraph (B) is added to read as follows:</text>
               <include lvl="2">
                 <para>
-                  <codify:insert/>
+                  <codify:insert codified:doc="D.C. Code" codified:path="§25-113|(i)|(1)|(B)"/>
                   <num>(B)</num>
                   <text>A caterer licensed under this subsection shall possess or have reasonable and on-going access to a kitchen licensed by the District of Columbia Department of Health or other applicable state agency in which to prepare the food for a catered event.</text>
                 </para>
@@ -116,7 +116,7 @@
         <para>
           <num>(C)</num>
           <text>Paragraph (5) is amended by striking the phrase "off-premises retailers license, class A," both times it appears and inserting the phrase "off-premises retailer's license, class A or AI" in its place.</text>
-          <codify:find-replace count="2">
+          <codify:find-replace count="2" codified:doc="D.C. Code" codified:path="§25-113">
             <find>off-premises retailers, class A,</find>
             <replace>off-premises retailer, class A or AI</replace>
           </codify:find-replace>
@@ -127,7 +127,7 @@
         <text>Section 25-113a is amended by adding a new subsection (d) to read as follows:</text>
         <include>
           <para>
-            <codify:insert path="§25-113a"/>
+            <codify:insert path="§25-113a" codified:doc="D.C. Code" codified:path="§25-113a|(d)"/>
             <num>(d)</num>
             <text>The license under an on-premises retailer's license, class C/R, D/R, C/H, D/H, C/T, D/T, C/N, D/N, D/X, C/X and class Arena C/X or a manufacturer's license class A or B holding an on-sites sales and consumption permit, shall obtain a sports wagering endorsement from the Board to be eligible to offer sports wagering.</text>
           </para>
@@ -140,7 +140,7 @@
         <para codify:path="(c)">
           <num>(A)</num>
           <text>Subsection (c) is amended by striking the phrase "A licensee" and inserting the phrase "Except as provided in subsection (g)(2) of this section, a licensee" in its place.</text>
-          <codify:find-replace count="1">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§25-118|(c)">
             <find>A licensee</find>
             <replace>Except as provided in subsection (g)(2) of this section, a licensee</replace>
           </codify:find-replace>
@@ -150,7 +150,7 @@
           <text>A new subsection (f-1) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(f)"/>
+              <codify:insert after="(f)" codified:doc="D.C. Code" codified:path="§25-118|(f-1)"/>
               <num>(f-1)</num>
               <para>
                 <num>(1)</num>
@@ -189,7 +189,7 @@
           <text>Subsection (g) is amended to read as follows:</text>
           <include>
             <para>
-              <codify:replace/>
+              <codify:replace codified:doc="D.C. Code" codified:path="§25-118|(g)"/>
               <num>(g)</num>
               <para>
                 <num>(1)</num>
@@ -208,7 +208,7 @@
           <text>Subsection (h) is amended to read as follows:</text>
           <include>
             <para>
-              <codify:replace/>
+              <codify:replace codified:doc="D.C. Code" codified:path="§25-118|(h)"/>
               <num>(h)</num>
               <text>For the purposes of this section, the term:</text>
               <para>
@@ -229,7 +229,7 @@
         <text>A new section 25-129 is added to read as follows:</text>
         <include>
           <section>
-            <codify:insert path="25|1|II" after="§25-128"/>
+            <codify:insert path="25|1|II" after="§25-128" codified:doc="D.C. Code" codified:path="§25-129"/>
             <prefix>§</prefix>
             <num>25-129</num>
             <heading>Pub crawl license.</heading>
@@ -257,7 +257,7 @@
           <text>Subsection (a) is amended by adding a new paragraph (4) to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:insert/>
+              <codify:insert codified:doc="D.C. Code" codified:path="§25-303|(a)|(4)"/>
               <num>(4)</num>
               <text>No licensee under an off-premises retailer's license, class AI or BI, shall hold an interest in any other license.</text>
             </para>
@@ -267,14 +267,14 @@
         <para codify:path="(c)|(4)">
           <num>(B)</num>
           <text>Subsection (c)(4) is repealed.</text>
-          <codify:repeal/>
+          <codify:repeal codified:doc="D.C. Code" codified:path="§25-303|(c)|(4)"/>
         </para>
         <para>
           <num>(C)</num>
           <text>A new subsection (c-1) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(c)"/>
+              <codify:insert after="(c)" codified:doc="D.C. Code" codified:path="§25-303|(c-1)"/>
               <num>(c-1)</num>
               <text>Notwithstanding subsection (a) of this section, the holder of an off-premises retailer's license, class B, that qualifies as a full-service grocery store pursuant to subsection (c) of this section shall be authorized to apply for an on-premises retailer's license, class CR or DR.</text>
             </para>
@@ -286,7 +286,7 @@
           <text>Subsection (f)(2) is amended to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:replace/>
+              <codify:replace codified:doc="D.C. Code" codified:path="§25-303|(f)|(2)"/>
               <num>(2)</num>
               <text>Other license held by the applicant is an on-premises retailer's license, class CH, DH, CR, DR, CT, or DT, that is also located within the same hotel as the establishment's proposed location, or an off-premises retailer's license, class B, that is located within another hotel and has no direct public access to the street or the outside of the hotel's building.</text>
             </para>
@@ -300,7 +300,7 @@
         <para codify:path="(1)">
           <num>(A)</num>
           <text>Paragraph (1) is amended by striking the phrase "paragraphs (2) through (9)" and inserting the phrase "paragraphs (2) through (11)" in its place.</text>
-          <codify:find-replace count="1">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§25-314|(b)|(1)">
             <find>paragraphs (2) through (9)</find>
             <replace>paragraphs (2) through (11)</replace>
           </codify:find-replace>
@@ -310,7 +310,7 @@
           <text>Paragraph (4) is amended to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:replace/>
+              <codify:replace codified:doc="D.C. Code" codified:path="§25-314|(b)|(4)"/>
               <num>(4)</num>
               <text>The 400-foot restriction shall not apply if:</text>
               <para>
@@ -342,7 +342,7 @@
           <text>New paragraphs (10) and (11) are added to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:insert/>
+              <codify:insert codified:doc="D.C. Code" codified:path="§25-314|(b)|(10)"/>
               <num>(10)</num>
               <text>The 400-foot restriction shall not apply to an applicant for a class change of an off-premises retailer's license, class A or B; provided, that:</text>
               <para>
@@ -355,7 +355,7 @@
               </para>
             </para>
             <para>
-              <codify:insert/>
+              <codify:insert codified:doc="D.C. Code" codified:path="§25-314|(b)|(11)"/>
               <num>(11)</num>
               <text>The 400-foot restriction shall not apply if:</text>
               <para>
@@ -395,7 +395,7 @@
         <text>Section 25-331(d) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§25-331|(d)"/>
             <num>(d)</num>
             <text>The quotas set forth in subsection (b) of this section shall not prohibit the issuance of a license for an off-premises retailer's license, class B, for the sale of alcoholic beverages in an establishment if:</text>
             <para>
@@ -426,7 +426,7 @@
           <text>Subsection (c) is amended to read as follows:</text>
           <include>
             <para>
-              <codify:replace/>
+              <codify:replace codified:doc="D.C. Code" codified:path="§25-332|(c)"/>
               <num>(c)</num>
               <text>This moratorium shall not apply to an applicant for an off-premises retailer's license, class B, for the sale of alcoholic beverages in an establishment if:</text>
               <para>
@@ -454,7 +454,7 @@
           <text>Subsection (e)(2) is amended to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:replace/>
+              <codify:replace codified:doc="D.C. Code" codified:path="§25-332|(e)|(2)"/>
               <num>(2)</num>
               <text>Establishment is not located in a residential-use district as defined in the zoning regulations and shown in the official atlases of the Zoning Commission for the District or, if located within Southeast Federal Center, in the SEFC-1;</text>
             </para>
@@ -470,7 +470,7 @@
           <text>Subsection (a) is amended to read as follows:</text>
           <include>
             <para>
-              <codify:replace/>
+              <codify:replace codified:doc="D.C. Code" codified:path="§25-333|(a)"/>
               <num>(a)</num>
               <text>No new off-premises retailers license, class A, shall be issued for an establishment which is located within 400 feet from another establishment operating under an off-premises retailer's license, class A; except, that this requirement shall not apply to:</text>
               <para>
@@ -490,7 +490,7 @@
           <text>Subsection (b) is amended is amended to read as follows:</text>
           <include>
             <para>
-              <codify:replace/>
+              <codify:replace codified:doc="D.C. Code" codified:path="§25-333|(b)"/>
               <num>(b)</num>
               <text>No new off-premises retailers license, class B, shall be issued for an establishment which is located within 400 feet from another establishment operating under an off-premises retailer's license, class B; except, that this requirement shall not apply to:</text>
               <para>
@@ -510,7 +510,7 @@
           <text>Subsection (c) is amended to read as follows:</text>
           <include>
             <para>
-              <codify:replace/>
+              <codify:replace codified:doc="D.C. Code" codified:path="§25-333|(c)"/>
               <num>(c)</num>
               <text>This section shall not prohibit the issuance of a license for an off-premises retailer's license, class B, for the sale of alcoholic beverages in an establishment if:</text>
               <para>
@@ -539,7 +539,7 @@
         <text>Section 25-336 is amended by adding a new subsection (g) to read as follows:</text>
         <include>
           <para>
-            <codify:insert/>
+            <codify:insert codified:doc="D.C. Code" codified:path="§25-336|(g)"/>
             <num>(g)</num>
             <text>Notwithstanding the restriction set forth in subsection (a) of this section, an applicant may apply for and be issued an off-premises retailer's license, class B, for premises located in a residential zone if:</text>
             <para>
@@ -575,7 +575,7 @@
         <text>A new section 25-512 is added to read as follows:</text>
         <include>
           <section>
-            <codify:insert path="25|5"/>
+            <codify:insert path="25|5" codified:doc="D.C. Code" codified:path="§25-512"/>
             <prefix>§</prefix>
             <num>25-512</num>
             <heading>Minimum fee for pub crawl license.</heading>
@@ -596,7 +596,7 @@
           <text>A new subsection (a-1) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(a)"/>
+              <codify:insert after="(a)" codified:doc="D.C. Code" codified:path="§25-721|(a-1)"/>
               <num>(a-1)</num>
               <text>Notwithstanding subsection (a) of this section, a licensed wholesaler may sell and deliver alcoholic beverages to customers only between the hours of 7:00 a.m. and 12:00 a.m., Monday through Sunday.</text>
             </para>
@@ -608,7 +608,7 @@
           <text>Subsection (b) is amended to read as follows:</text>
           <include>
             <para>
-              <codify:replace/>
+              <codify:replace codified:doc="D.C. Code" codified:path="§25-721|(b)"/>
               <num>(b)</num>
               <text>In addition to the provisions in subsection (a) of this section, a licensed wholesaler, class A or B, may deliver alcoholic beverages between the hours of 9:00 a.m. and 9:00 p.m. on Sunday.</text>
             </para>
@@ -621,7 +621,7 @@
         <text>Section 25-736 is amended by adding a new subsection (a-1) to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(a)"/>
+            <codify:insert after="(a)" codified:doc="D.C. Code" codified:path="§25-736|(a-1)"/>
             <num>(a-1)</num>
             <para>
               <num>(1)</num>
@@ -644,7 +644,7 @@
           <para>
             <num>(i)</num>
             <text>Strike the phrase "establishment under" and insert the phrase "establishment in the District under" in its place.</text>
-            <codify:find-replace count="1">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§25-754|(a)">
               <find>establishment under</find>
               <replace>establishment in the District under</replace>
             </codify:find-replace>
@@ -654,7 +654,7 @@
             <text>Paragraph (3) is amended to read as follows:</text>
             <include lvl="1">
               <para>
-                <codify:replace/>
+                <codify:replace codified:doc="D.C. Code" codified:path="§25-754|(a)|(3)"/>
                 <num>(3)</num>
                 <text>Off-premises retailer's license, class A or B;</text>
               </para>
@@ -664,7 +664,7 @@
           <para codify:path="(4)">
             <num>(iii)</num>
             <text>Paragraph (4) is amended by striking the phrase "Common carrier license" and inserting the phrase "On-premises retailer's license" in its place.</text>
-            <codify:find-replace count="1">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§25-754|(a)|(4)">
               <find>Common carrier license</find>
               <replace>On-premises retailer's license</replace>
             </codify:find-replace>
@@ -675,7 +675,7 @@
           <text>A new subsection (c) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert/>
+              <codify:insert codified:doc="D.C. Code" codified:path="§25-754|(c)"/>
               <num>(c)</num>
               <text>The Board may permit a licensee to conduct other activities at an approved storage location; except, that that the licensee shall not be permitted to sell, service, or allow the consumption of alcoholic beverages at the storage location.</text>
             </para>
@@ -688,7 +688,7 @@
         <text>Section 25-798 is amended by adding a new subsection (c-1) to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(c)"/>
+            <codify:insert after="(c)" codified:doc="D.C. Code" codified:path="§25-798|(c-1)"/>
             <num>(c-1)</num>
             <para>
               <num>(1)</num>
@@ -711,7 +711,7 @@
   <section>
     <num>3</num>
     <text>Section 1108(c-1)(8) of the District of Columbia Government Comprehensive Merit Personnel Act of 1978, effective March 3, 1979 (D.C. Law 2-139; D.C. Official Code § 1-611.08(c-1)(8)), is amended by striking the figure "$40" and inserting the figure "$50" in its place.</text>
-    <codify:find-replace doc="D.C. Code" path="§1-611.08|(c-1)|(8)" count="1">
+    <codify:find-replace doc="D.C. Code" path="§1-611.08|(c-1)|(8)" count="1" codified:doc="D.C. Code" codified:path="§1-611.08|(c-1)|(8)">
       <find>$40</find>
       <replace>$50</replace>
     </codify:find-replace>
@@ -730,7 +730,7 @@
       </subsection>
     </include>
     <aftertext>.</aftertext>
-    <codify:find-replace doc="D.C. Code" path="§2-553" count="1" history="false" display-template="DCMR">
+    <codify:find-replace doc="D.C. Code" path="§2-553" count="1" history="false" display-template="DCMR" codified:doc="D.C. Code" codified:path="§2-553">
       <find>Documents</find>
       <replace>Documents</replace>
     </codify:find-replace>

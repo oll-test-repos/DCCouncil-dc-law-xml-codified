@@ -55,7 +55,7 @@
       <text>New sections 47-1099.05, 47-1099.06, 47-1099.07, and 47-1099.08 are added to read as follows:</text>
       <include>
         <section>
-          <codify:insert doc="D.C. Code" path="47|10"/>
+          <codify:insert doc="D.C. Code" path="47|10" codified:doc="D.C. Code" codified:path="§47-1099.05"/>
           <prefix>§</prefix>
           <num>47-1099.05</num>
           <heading>Shaed School, LLC; Lot 816, Square 3552.</heading>
@@ -73,7 +73,7 @@
           </para>
         </section>
         <section>
-          <codify:insert doc="D.C. Code" path="47|10"/>
+          <codify:insert doc="D.C. Code" path="47|10" codified:doc="D.C. Code" codified:path="§47-1099.06"/>
           <prefix>§</prefix>
           <num>47-1099.06</num>
           <heading>5601 East Capitol, LLC; Lot 153, Square 5283.</heading>
@@ -91,7 +91,7 @@
           </para>
         </section>
         <section>
-          <codify:insert doc="D.C. Code" path="47|10"/>
+          <codify:insert doc="D.C. Code" path="47|10" codified:doc="D.C. Code" codified:path="§47-1099.07"/>
           <prefix>§</prefix>
           <num>47-1099.07</num>
           <heading>St. Paul on Fourth Street, Inc.; Lots 1068 and 1069, Square 3648.</heading>
@@ -109,7 +109,7 @@
           </para>
         </section>
         <section>
-          <codify:insert doc="D.C. Code" path="47|10"/>
+          <codify:insert doc="D.C. Code" path="47|10" codified:doc="D.C. Code" codified:path="§47-1099.08"/>
           <prefix>§</prefix>
           <num>47-1099.08</num>
           <heading>Maime D. Lee, LLC; Lots 136 and 160, Parcel 124.</heading>

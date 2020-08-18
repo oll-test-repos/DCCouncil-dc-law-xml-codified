@@ -29,7 +29,7 @@
     <para>
       <num>(a)</num>
       <text>Section 25-201(c)(8) is amended by striking the phrase "Corporation Counsel" and inserting the phrase "Attorney General for the District of Columbia" in its place.</text>
-      <codify:find-replace path="§25-201|(c)|(8)" count="1">
+      <codify:find-replace path="§25-201|(c)|(8)" count="1" codified:doc="D.C. Code" codified:path="§25-201|(c)|(8)">
         <find>Corporation Counsel</find>
         <replace>Attorney General for the District of Columbia</replace>
       </codify:find-replace>
@@ -42,7 +42,7 @@
         <text>Section 25-338 is amended to read as follows:</text>
         <include>
           <section>
-            <codify:replace path="§25-338"/>
+            <codify:replace path="§25-338" codified:doc="D.C. Code" codified:path="§25-338"/>
             <prefix>§</prefix>
             <num>25-338</num>
             <heading>Limitation on successive applications after denial.</heading>
@@ -61,7 +61,7 @@
       <para>
         <num>(2)</num>
         <text>Section 25-340.01(c) is repealed.</text>
-        <codify:repeal path="§25-340.01|(c)"/>
+        <codify:repeal path="§25-340.01|(c)" codified:doc="D.C. Code" codified:path="§25-340.01|(c)"/>
       </para>
     </para>
     <para>
@@ -76,7 +76,7 @@
           <para codify:path="(1)">
             <num>(i)</num>
             <text>Paragraph (1) is amended by striking the phrase "name and address of the individual" and inserting the phrase "name, address, telephone number, and e-mail address of the individual" in its place.</text>
-            <codify:find-replace count="1">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§25-402|(a)|(1)">
               <find>name and address of the individual</find>
               <replace>name, address, telephone number, and e-mail address of the individual</replace>
             </codify:find-replace>
@@ -84,7 +84,7 @@
           <para codify:path="(2)">
             <num>(ii)</num>
             <text>Paragraph (2) is amended by striking the phrase "name and address of the owner" and inserting the phrase "name, address, telephone number, and e-mail address of the owner" in its place.</text>
-            <codify:find-replace count="1">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§25-402|(a)|(2)">
               <find>name and address of the owner</find>
               <replace>name, address, telephone number, and e-mail address of the owner</replace>
             </codify:find-replace>
@@ -94,7 +94,7 @@
             <text>A new paragraph (2A) is added to read as follows:</text>
             <include lvl="1">
               <para>
-                <codify:insert after="(2)"/>
+                <codify:insert after="(2)" codified:doc="D.C. Code" codified:path="§25-402|(a)|(2A)"/>
                 <num>(2A)</num>
                 <text>The name and e-mail address of the owner of the establishment, or the owner's designee, for purposes of receiving communications from ABRA, including correspondence, hearing notices and other types of service of process, and Board orders;</text>
               </para>
@@ -106,7 +106,7 @@
           <text>A new subsection (a-1) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(a)"/>
+              <codify:insert after="(a)" codified:doc="D.C. Code" codified:path="§25-402|(a-1)"/>
               <num>(a-1)</num>
               <para>
                 <num>(1)</num>
@@ -124,7 +124,7 @@
       <para>
         <num>(2)</num>
         <text>Section 25-432(b) is amended by striking the phrase "settlement conference" wherever it appears and inserting the phrase "mediation" in its place.</text>
-        <codify:find-replace path="§25-432|(b)" count="3">
+        <codify:find-replace path="§25-432|(b)" count="3" codified:doc="D.C. Code" codified:path="§25-432|(b)">
           <find>settlement conference</find>
           <replace>mediation</replace>
         </codify:find-replace>
@@ -132,14 +132,14 @@
       <para>
         <num>(3)</num>
         <text>Section 25-445(e) is repealed.</text>
-        <codify:repeal path="§25-445|(e)"/>
+        <codify:repeal path="§25-445|(e)" codified:doc="D.C. Code" codified:path="§25-445|(e)"/>
       </para>
       <para>
         <num>(4)</num>
         <text>Section 25-446 is amended by adding a new subsection (a-1) to read as follows:</text>
         <include>
           <para>
-            <codify:insert path="§25-446" after="(a)"/>
+            <codify:insert path="§25-446" after="(a)" codified:doc="D.C. Code" codified:path="§25-446|(a-1)"/>
             <num>(a-1)</num>
             <text>The applicant and any person or entity who would otherwise have standing to protest an application pursuant to <cite doc="D.C. Code" path="§25-601">§ 25-601</cite> may, at any time, negotiate a settlement and enter into a written agreement setting forth the terms of the settlement.</text>
           </para>
@@ -153,7 +153,7 @@
       <para>
         <num>(1)</num>
         <text>The existing text is designated as subsection (a).</text>
-        <codify:redesignate-para num-value="(a)"/>
+        <codify:redesignate-para num-value="(a)" codified:doc="D.C. Code" codified:path="§25-601"/>
       </para>
       <para codify:path="(a)|(1)">
         <num>(2)</num>
@@ -161,14 +161,14 @@
         <para>
           <num>(A)</num>
           <text>The existing text is designated as subparagraph (A).</text>
-          <codify:redesignate-para num-value="(A)"/>
+          <codify:redesignate-para num-value="(A)" codified:doc="D.C. Code" codified:path="§25-601|(a)|(1)"/>
         </para>
         <para>
           <num>(B)</num>
           <text>A new subparagraph (B) is added to read as follows:</text>
           <include lvl="2">
             <para>
-              <codify:insert after="(A)"/>
+              <codify:insert after="(A)" codified:doc="D.C. Code" codified:path="§25-601|(a)|(1)|(B)"/>
               <num>(B)</num>
               <text>For the purposes of this paragraph, the term "abutting property" means any property where the property line has a boundary or boundary point in common with the property line of the licensed establishment.</text>
             </para>
@@ -181,7 +181,7 @@
         <text>A new subsection (b) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert/>
+            <codify:insert codified:doc="D.C. Code" codified:path="§25-601|(b)"/>
             <num>(b)</num>
             <para>
               <num>(1)</num>
@@ -202,7 +202,7 @@
       <para>
         <num>(1)</num>
         <text>Section 25-725(b)(3) is amended  by striking the phrase, " which are located within a C-1, C-2, C-3, C-4, C-M, or M zone, as defined in zoning regulations for the District;" and inserting the phrase, "that are located within a commercial or manufacturing zone, as defined in the zoning regulations and shown in the official atlases of the Zoning Commission for the District;" in its place.</text>
-        <codify:find-replace path="§25-725|(b)|(3)" count="1">
+        <codify:find-replace path="§25-725|(b)|(3)" count="1" codified:doc="D.C. Code" codified:path="§25-725|(b)|(3)">
           <find>which are located within a C-1, C-2, C-3, C-4, C-M, or M zone, as defined in the zoning regulations for the District;</find>
           <replace>that are located within a commercial or manufacturing zone, as defined in the zoning regulations and shown in the official atlases of the Zoning Commission for the District;</replace>
         </codify:find-replace>
@@ -215,7 +215,7 @@
           <text>Subsection (a) is amended to read as follows:</text>
           <include>
             <para>
-              <codify:replace/>
+              <codify:replace codified:doc="D.C. Code" codified:path="§25-791|(a)"/>
               <num>(a)</num>
               <para>
                 <num>(1)</num>
@@ -239,14 +239,14 @@
           <para>
             <num>(i)</num>
             <text>The existing text is designated as paragraph (1).</text>
-            <codify:redesignate-para num-value="(1)"/>
+            <codify:redesignate-para num-value="(1)" codified:doc="D.C. Code" codified:path="§25-791|(c)"/>
           </para>
           <para>
             <num>(ii)</num>
             <text>A new paragraph (2) is added to read as follows:</text>
             <include lvl="1">
               <para>
-                <codify:insert/>
+                <codify:insert codified:doc="D.C. Code" codified:path="§25-791|(c)|(2)"/>
                 <num>(2)</num>
                 <text>For purposes of this subsection, the term "reasonable progress" means taking deliberate steps to resume business operations, including acquiring the necessary permits or approvals from the Department of Consumer and Regulatory Affairs, the Office of Zoning, the Historic Preservation Board, or any other District agency, executing contractual agreements or lease agreements, retaining contractors, or transferring the license to a new owner or new location.</text>
               </para>
@@ -257,7 +257,7 @@
         <para>
           <num>(C)</num>
           <text>Subsection (d) amended by striking the phrase "for renewing the license upon its expiration" and inserting the phrase "of renewing the license" in its place.</text>
-          <codify:find-replace path="(d)" count="1">
+          <codify:find-replace path="(d)" count="1" codified:doc="D.C. Code" codified:path="§25-791|(d)">
             <find>for renewing the license upon its expiration</find>
             <replace>of renewing the license</replace>
           </codify:find-replace>
@@ -270,7 +270,7 @@
       <para>
         <num>(1)</num>
         <text>Section 25-801 is amended by striking the phrase "Corporation Counsel" both times it appears and inserting the phrase "Attorney General for the District of Columbia" in its place.</text>
-        <codify:find-replace path="§25-801" count="2">
+        <codify:find-replace path="§25-801" count="2" codified:doc="D.C. Code" codified:path="§25-801">
           <find>Corporation Counsel</find>
           <replace>Attorney General for the District of Columbia</replace>
         </codify:find-replace>
@@ -278,7 +278,7 @@
       <para>
         <num>(2)</num>
         <text>Section 25-805(b) is amended by striking the phrase "Corporation Counsel" and inserting the phrase "Attorney General for the District of Columbia" in its place.</text>
-        <codify:find-replace path="§25-805|(b)" count="1">
+        <codify:find-replace path="§25-805|(b)" count="1" codified:doc="D.C. Code" codified:path="§25-805|(b)">
           <find>Corporation Counsel</find>
           <replace>Attorney General for the District of Columbia</replace>
         </codify:find-replace>
@@ -286,7 +286,7 @@
       <para>
         <num>(3)</num>
         <text>Section 25-831(c) is amended by striking the phrase "Corporation Counsel" and inserting the phrase "Attorney General for the District of Columbia" in its place.</text>
-        <codify:find-replace path="§25-831|(c)" count="1">
+        <codify:find-replace path="§25-831|(c)" count="1" codified:doc="D.C. Code" codified:path="§25-831|(c)">
           <find>Corporation Counsel</find>
           <replace>Attorney General for the District of Columbia</replace>
         </codify:find-replace>
@@ -298,7 +298,7 @@
       <para>
         <num>(2)</num>
         <text>Section 25-911(c) is amended by striking the phrase "Corporation Counsel" and inserting the phrase "Attorney General for the District of Columbia" in its place.</text>
-        <codify:find-replace path="§25-911|(c)" count="1">
+        <codify:find-replace path="§25-911|(c)" count="1" codified:doc="D.C. Code" codified:path="§25-911|(c)">
           <find>Corporation Counsel</find>
           <replace>Attorney General for the District of Columbia</replace>
         </codify:find-replace>
