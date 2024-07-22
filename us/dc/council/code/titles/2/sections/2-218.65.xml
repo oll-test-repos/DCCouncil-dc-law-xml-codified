@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code" placeholder="Repealed">
+  <reason>Repealed</reason>
+  <num>2-218.65</num>
+  <heading>Certification audits.</heading>
+  <text>Repealed.</text>
+  <annotations>
+    <annotation doc="D.C. Law 16-33" type="History" path="§2365">Oct. 20, 2005, D.C. Law 16-33, § 2365</annotation>
+    <annotation doc="D.C. Law 18-141" type="History">as added Apr. 20, 2010, D.C. Law 18-141, § 2(p), 57 DCR 1485</annotation>
+    <annotation app="2023-03-10" doc="D.C. Law 24-311" eff="2023-03-10" path="§4" type="History"/>
+  </annotations>
+</section>

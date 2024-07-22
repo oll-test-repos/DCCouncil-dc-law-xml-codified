@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+  <num>5-1501.05</num>
+  <heading>Personnel.</heading>
+  <para>
+    <num>(a)</num>
+    <para>
+      <num>(1)</num>
+      <text>In addition to a Director, the Department shall have a Deputy Director, and other professional and support personnel as necessary and appropriate to carry out the Department's mission.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The Deputy Director shall have a masters or doctoral degree in an applicable area of science or forensic analysis and a minimum of 2 years experience in forensic sciences.</text>
+    </para>
+  </para>
+  <annotations>
+    <annotation doc="D.C. Law 19-18" type="History" path="§6">Aug. 17, 2011, D.C. Law 19-18, § 6, 58 DCR 5403</annotation>
+    <annotation app="2021-04-27" doc="D.C. Law 23-274" eff="2021-04-27" path="§501|(d)" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 24-348" path="§2|(g)" codified:display="Note" app="2023-04-21" eff="2023-04-21">Applicability of <cite doc="D.C. Law 24-348" path="">D.C. Law 24-348</cite>: <cite doc="D.C. Law 24-348" path="§10">§ 10 of D.C. Law 24-348</cite> provided that the change made to this section by <cite doc="D.C. Law 24-348" path="§2|(g)">§ 2(g) of D.C. Law 24-348</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§10|(a)" type="History" display="false"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(g)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(g)" type="History"/>
+  </annotations>
+</section>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+  <num>42-3307</num>
+  <heading>Regulations.</heading>
+  <text>The Public Service Commission shall adopt regulations necessary to carry out the purposes of this chapter. Such regulations shall include, but not be limited to, establishing procedures by which the company shall notify tenants of an affected apartment house that monies are owed the company.</text>
+  <annotations>
+    <annotation doc="D.C. Law 3-94" type="History" path="§8">Sept. 13, 1980, D.C. Law 3-94, § 8, 27 DCR 3500</annotation>
+    <annotation type="Prior Codifications">1981 Ed., § 43-547.</annotation>
+    <annotation app="2022-02-17" doc="D.C. Act 24-334" eff="2022-02-17" path="§2" type="History" display="false"/>
+    <annotation app="2022-05-18" doc="D.C. Law 24-123" eff="2022-05-18" path="§2" type="History" display="false"/>
+    <annotation app="2022-12-28" doc="D.C. Act 24-715" eff="2022-12-28" path="§2" type="History" display="false"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-327" eff="2023-03-10" path="§2" type="History" display="false"/>
+    <annotation app="2023-10-11" doc="D.C. Act 25-239" eff="2023-10-11" path="§2" type="History" display="false"/>
+    <annotation app="2023-12-20" doc="D.C. Law 25-93" eff="2023-12-20" path="§2" type="History" display="false"/>
+    <annotation app="2024-01-04" doc="D.C. Act 25-346" eff="2024-01-04" path="§2" type="History" display="false"/>
+  </annotations>
+</section>

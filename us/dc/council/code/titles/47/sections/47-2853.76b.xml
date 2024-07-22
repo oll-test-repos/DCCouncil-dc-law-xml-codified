@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+  <num>47-2853.76b</num>
+  <heading>Regulation of body artists.</heading>
+  <para>
+    <num>(a)</num>
+    <text>The Department of Licensing and Consumer Protection, through the Board of Barber and Cosmetology, shall regulate body artists to protect public health, safety, and welfare, and to ensure that persons engaged in the occupation have the specialized skills, education, and training required to perform the services offered by:</text>
+    <para>
+      <num>(1)</num>
+      <text>Establishing and imposing occupational licensing, registration requirements, and associated fee schedules; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Establishing rules within 180 days of [October 23, 2012].</text>
+    </para>
+  </para>
+  <annotations>
+    <annotation doc="D.C. Law 19-193" type="History">Oct. 23, 2012, D.C. Law 19-193, § 3(g), 59 DCR 10388</annotation>
+    <annotation type="Editor's Notes">This section was enacted as subsection (a), but has no subsection (b).</annotation>
+    <annotation app="2021-04-05" doc="D.C. Law 23-269" eff="2021-04-05" path="§501|(bb)|(10)" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 24-333" path="§5|(d)|(3)" codified:display="Note" app="2023-03-22" eff="2023-03-22">Applicability of <cite doc="D.C. Law 24-333" path="">D.C. Law 24-333</cite>: <cite doc="D.C. Law 24-333" path="§9">§ 9 of D.C. Law 24-333</cite> provided that the change made to this section by <cite doc="D.C. Law 24-333" path="§5|(d)|(3)">§ 5(d)(3) of D.C. Law 24-333</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="notfunded" doc="D.C. Law 24-333" eff="2023-03-22" path="§9|(a)" type="History" display="false"/>
+    <annotation app="2023-03-22" doc="D.C. Law 24-333" eff="2023-03-22" path="§5|(d)|(3)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-333" eff="2023-03-22" path="§5|(d)|(3)" type="History"/>
+  </annotations>
+</section>

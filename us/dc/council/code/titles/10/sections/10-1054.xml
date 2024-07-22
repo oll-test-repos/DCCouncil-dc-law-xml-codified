@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <num>10-1054</num>
+  <heading proof="needed">Applicability.</heading>
+  <para>
+    <num>(a)</num>
+    <text>Sections <cite path="§10-1052">10-1052</cite>(d), (e), (f), and (g) and <cite path="§10-1053">10-1053</cite> shall apply upon the date of inclusion of their fiscal effect in an approved budget and financial plan.</text>
+    <codify:repeal doc="D.C. Code" path="§10-1052|(d)" history="false" codified:doc="D.C. Code" codified:path="§10-1052|(d)"/>
+    <codify:find-replace doc="D.C. Code" path="§10-1052|(d)" count="1" history="false" codified:doc="D.C. Code" codified:path="§10-1052|(d)">
+      <find>Repealed</find>
+      <replace>Not Funded</replace>
+    </codify:find-replace>
+    <codify:repeal doc="D.C. Code" path="§10-1052|(e)" history="false" codified:doc="D.C. Code" codified:path="§10-1052|(e)"/>
+    <codify:find-replace doc="D.C. Code" path="§10-1052|(e)" count="1" history="false" codified:doc="D.C. Code" codified:path="§10-1052|(e)">
+      <find>Repealed</find>
+      <replace>Not Funded</replace>
+    </codify:find-replace>
+    <codify:repeal doc="D.C. Code" path="§10-1052|(f)" history="false" codified:doc="D.C. Code" codified:path="§10-1052|(f)"/>
+    <codify:find-replace doc="D.C. Code" path="§10-1052|(f)" count="1" history="false" codified:doc="D.C. Code" codified:path="§10-1052|(f)">
+      <find>Repealed</find>
+      <replace>Not Funded</replace>
+    </codify:find-replace>
+    <codify:repeal doc="D.C. Code" path="§10-1052|(g)" history="false" codified:doc="D.C. Code" codified:path="§10-1052|(g)"/>
+    <codify:find-replace doc="D.C. Code" path="§10-1052|(g)" count="1" history="false" codified:doc="D.C. Code" codified:path="§10-1052|(g)">
+      <find>Repealed</find>
+      <replace>Not Funded</replace>
+    </codify:find-replace>
+    <codify:repeal doc="D.C. Code" path="§10-1053" history="false" codified:doc="D.C. Code" codified:path="§10-1053"/>
+    <codify:find-replace doc="D.C. Code" path="§10-1053" count="2" history="false" codified:doc="D.C. Code" codified:path="§10-1053">
+      <find>Repeal</find>
+      <replace>Not Funded</replace>
+    </codify:find-replace>
+    <codify:annotation doc="D.C. Code" path="§10-1052" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§10-1052">
+                  Section 6102(c) of D.C. Law 25-50 provided that subsections (d), (e) and (f) of this section are subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore the creation of those subsections have not been implemented.
+                </codify:annotation>
+    <codify:annotation doc="D.C. Code" path="§10-1053" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§10-1053">
+                  Section 6102(c) of D.C. Law 25-50 provided that this section is subject to the inclusion of its fiscal effect in an approved budget and financial plan. Therefore the creation of this subsection has not been implemented.
+                </codify:annotation>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>The Chief Financial Officer shall certify the date of the inclusion of the fiscal effect in an approved budget and financial plan and provide notice to the Budget Director of the Council of the certification.</text>
+  </para>
+  <para>
+    <num>(c)</num>
+    <para>
+      <num>(1)</num>
+      <text>The Budget Director shall cause the notice of the certification to be published in the District of Columbia Register.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The date of publication of the notice of the certification shall not affect the applicability of <cite path="10|10B">this chapter</cite>.</text>
+    </para>
+  </para>
+  <annotations>
+    <annotation app="2019-04-11" doc="D.C. Law 22-280" eff="2019-04-11" path="" type="History" display="false"/>
+    <annotation app="2019-04-11" doc="D.C. Law 22-280" eff="2019-04-11" path="§5" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-91" path="§7166" codified:display="Note" app="2019-07-22" eff="2019-07-22">For temporary (90 days) repeal of applicability provision of D.C. Law 22-280, see <cite doc="D.C. Act 23-91" path="§7166">§ 7166 of Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019, 66 DCR 8497)</cite>.</annotation>
+    <annotation app="2019-07-22" doc="D.C. Act 23-91" eff="2019-07-22" path="§7166" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-112" path="§7166" codified:display="Note" app="2019-09-04" eff="2019-09-04">For temporary (90 days) repeal of applicability provision of D.C. Law 22-280, see <cite doc="D.C. Act 23-112" path="§7166">§ 7166 of Fiscal Year 2020 Budget Support Congressional Review Emergency Act of 2019 (D.C. Act 23-112, Sept. 4, 2019, 66 DCR 11964)</cite>.</annotation>
+    <annotation app="2019-09-04" doc="D.C. Act 23-112" eff="2019-09-04" path="§7166" type="History" display="false"/>
+    <annotation doc="D.C. Law 23-16" path="§7166" type="Applicability" history="false" app="2019-09-11" eff="2019-09-11">
+          Applicability of <cite doc="D.C. Law 22-280">D.C. Law 22-280</cite>: <cite doc="D.C. Law 23-16" path="§7166">§ 7166 of D.C. Law 23-16</cite> repealed <cite doc="D.C. Law 22-280" path="§5">§ 5 of D.C. Law 22-280</cite>. Therefore the creation of this section by <cite doc="D.C. Law 22-280">D.C. Law 22-280</cite> has been implemented.
+        </annotation>
+    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7166" type="History" display="false"/>
+    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7166" type="History"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7184" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§6102|(c)" type="History"/>
+  </annotations>
+</section>

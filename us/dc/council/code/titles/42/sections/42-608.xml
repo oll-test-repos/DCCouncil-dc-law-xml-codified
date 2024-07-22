@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+  <num>42-608</num>
+  <heading>Covenant for further assurances; contracts to contain soil characteristics information.</heading>
+  <para>
+    <num>(a)</num>
+    <text>A covenant by a grantor, in a deed of land, “that he will execute such further assurances of said land as may be requisite,” shall have the same effect as if he had covenanted that he, his heirs or devisees, will, at any time, upon any reasonable request, at the charge of the grantee, his heirs or assigns, do, execute, or cause to be done and executed, all such further acts, deeds, and things, for the better, more perfectly and absolutely conveying and assuring the lands and premises conveyed unto the grantee, his heirs and assigns, as intended to be conveyed, as by the grantee, his heirs or assigns, or his or their counsel learned in the law, shall be reasonably devised, advised, or required.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>All contracts drawn for the purpose of conveying real property in the District of Columbia shall contain the following information:</text>
+    <para placeholder="Repealed">
+      <num>(1)</num>
+      <text>Repealed.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>A notation that for further information the buyer can contact a soil testing laboratory, the District of Columbia Department of Environmental Services or the Soil Conservation Service of the Department of Agriculture; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>If there is a Heritage Tree, as that term is defined in <cite path="§8-651.02|(3A)">§ 8-651.02(3A)</cite>, on the property, a notation that the Heritage Tree is located on the property and that there are restrictions on the ability of property owners to remove Heritage Trees.</text>
+    </para>
+  </para>
+  <annotations>
+    <annotation type="History" doc="Stat. 56-2-ch854" path="§510">Mar. 3, 1901, 31 Stat. 1269, ch. 854, § 510</annotation>
+    <annotation doc="D.C. Law 2-23" type="History">Sept. 28, 1977, D.C. Law 2-23, § 3, 24 DCR 3342</annotation>
+    <annotation type="Transfer of Functions">The functions of the Department of Environmental Services were transferred to the Department of Public Works by Reorganization Plan No. 4 of 1983, effective March 1, 1984.</annotation>
+    <annotation type="Prior Codifications">1973 Ed., § 45-308.</annotation>
+    <annotation type="Prior Codifications">1981 Ed., § 45-508.</annotation>
+    <annotation type="Section References">This section is referenced in <cite path="§8-1707">§ 8-1707</cite>.</annotation>
+    <annotation type="Cross References">Erosion and sediment control pursuant to this section, powers and duties, see <cite path="§8-1707">§ 8-1707</cite>.</annotation>
+    <annotation app="2022-08-16" doc="D.C. Law 24-152" eff="2022-08-16" path="§3|(a)" type="History"/>
+    <annotation app="2022-08-16" doc="D.C. Law 24-152" eff="2022-08-16" path="§3|(b)" type="History"/>
+    <annotation app="2022-08-16" doc="D.C. Law 24-152" eff="2022-08-16" path="§3|(c)" type="History"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-304" eff="2023-03-10" path="§2" type="History"/>
+  </annotations>
+</section>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+  <num>5-1501.14</num>
+  <heading>Functions of the Stakeholder Council.</heading>
+  <text>The Stakeholder Council shall:</text>
+  <para>
+    <num>(1)</num>
+    <text>Identify issues or concerns regarding:</text>
+    <para>
+      <num>(A)</num>
+      <text>The Department’s delivery of forensic science services or public health laboratory services to agencies, including the timeliness of service; and</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>The general effectiveness of the Department in the furtherance of its agency mission; and</text>
+    </para>
+  </para>
+  <para>
+    <num>(2)</num>
+    <text>Advise the Mayor and the Council, as it considers necessary, on matters relating to the Department, forensic sciences services, or public health laboratory services.</text>
+  </para>
+  <annotations>
+    <annotation doc="D.C. Law 19-18" type="History" path="§15">Aug. 17, 2011, D.C. Law 19-18, § 15, 58 DCR 5403</annotation>
+    <annotation app="2021-04-27" doc="D.C. Law 23-274" eff="2021-04-27" path="§501|(j)|(1)" type="History"/>
+    <annotation app="2021-04-27" doc="D.C. Law 23-274" eff="2021-04-27" path="§501|(j)|(2)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§10|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(s)|(1)|(A)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(s)|(1)|(B)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(s)|(2)" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 24-348" path="§2|(s)" codified:display="Note" app="2023-04-21" eff="2023-04-21">Applicability of <cite doc="D.C. Law 24-348" path="">D.C. Law 24-348</cite>: <cite doc="D.C. Law 24-348" path="§10">§ 10 of D.C. Law 24-348</cite> provided that the change made to this section by <cite doc="D.C. Law 24-348" path="§2|(s)">§ 2(s) of D.C. Law 24-348</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2023-04-21" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(s)" type="History"/>
+  </annotations>
+</section>

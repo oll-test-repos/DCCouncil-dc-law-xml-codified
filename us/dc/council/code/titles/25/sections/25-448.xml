@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>§</prefix>
+  <num>25-448</num>
+  <heading>Offer-in-compromise.</heading>
+  <para>
+    <num>(a)</num>
+    <text>The Board may, in its discretion, accept from the licensee and the Office of the Attorney General for the District of Columbia an offer-in-compromise to resolve the charges brought by the District of Columbia against the licensee.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>An offer-in-compromise may be presented to the Board at the show cause status hearing or show cause hearing.</text>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>The offer-in-compromise shall be consistent with the range of fines set forth in <cite path="25">this title</cite>.</text>
+  </para>
+  <annotations>
+    <annotation app="2018-10-30" doc="D.C. Law 22-165" eff="2018-10-30" path="§2|(d)|(10)" type="History"/>
+    <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§5|(a)" type="History"/>
+    <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§5|(b)" type="History"/>
+    <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§5|(c)" type="History"/>
+  </annotations>
+</section>

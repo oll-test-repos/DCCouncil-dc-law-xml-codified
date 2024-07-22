@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+  <num>42-3131.05a</num>
+  <heading>Notice by mail.</heading>
+  <para>
+    <num>(a)</num>
+    <text>Notice shall be deemed to be served properly on the date when mailed by first class mail to the owner of record of the vacant building at the owner’s mailing address as updated in the real property tax records of the Office of Tax and Revenue.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>The Mayor shall cause notice also to be posted on the vacant building; provided, that the official notice for legal purposes shall be the notice mailed pursuant to subsection (a) of this section.  Unless the Mayor knows with certainty that the vacant building is not eligible for exemption pursuant to <cite path="§42-3131.06">§ 42-3131.06</cite>, the notice shall not be posted by difficult-to-remove adhesive.</text>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>A courtesy copy of a notice provided pursuant to subsection (a) of this section shall be mailed or electronically mailed to the Advisory Neighborhood Commission in which the vacant building is located and the status of the building's designation shall be posted on an internet website maintained by the Department of Buildings that is accessible to the public. The courtesy copy required by this subsection shall not be construed to satisfy, nor be construed as necessary to satisfy, the requirements of subsection (a) of this section that notice be properly served by mail.</text>
+  </para>
+  <annotations>
+    <annotation type="History" doc="Stat. 59-1-ch1626" path="§5a">Apr. 14, 1906, 34 Stat. 115, ch. 1626, § 5a</annotation>
+    <annotation doc="D.C. Law 17-216" type="History">as added Aug. 15, 2008, D.C. Law 17-216, § 3(b), 55 DCR 7500</annotation>
+    <annotation doc="D.C. Law 21-78" type="History">Mar. 9, 2016, D.C. Law 21-78, § 2, 63 DCR 760</annotation>
+    <annotation type="Editor's Notes">Section 5(a) of <cite doc="D.C. Law 17-216">D.C. Law 17-216</cite> provided that sections 2, 3, and 4(b) and (c) shall apply to real property tax years beginning after September 30, 2006.</annotation>
+    <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 2 of the Nuisance Abatement Notice Congressional Review Emergency Amendment Act of 2016 (D.C. Act 21-328, Mar. 16, 2016,  63 DCR 4296).</annotation>
+    <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 2 of the Nuisance Abatement Notice Congressional Review Emergency Amendment Act of 2015 (D.C. Act 21-15, Mar. 26, 2015,  62 DCR 3845, 21 DCSTAT 842).</annotation>
+    <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 2 of the Nuisance Abatement Notice Emergency Amendment Act of 2014 (D.C. Act 20-569, Jan. 13, 2015, 62 DCR 1056, 21 STAT 711).</annotation>
+    <annotation type="Emergency Legislation">For temporary (90 day) addition, see § 3(b) of Nuisance Properties Abatement Reform and Real Property Classification Congressional Review Emergency Act of 2008 (D.C. Act 17-436, July 16, 2008,  55 DCR 8272).</annotation>
+    <annotation type="Emergency Legislation">For temporary (90 day) addition, see § 3(b) of Nuisance Properties Abatement Reform and Real Property Classification Emergency Amendment Act of 2007 (D.C. Act 17-173, November 2, 2007,  54 DCR 11204).</annotation>
+    <annotation type="Emergency Legislation">For temporary (90 day) addition, see § 3(b) of Nuisance Properties Abatement Reform and Real Property Classification Emergency Amendment Act of 2006 (D.C. Act 16-586, December 28, 2006,  54 DCR 353).</annotation>
+    <annotation type="Temporary Legislation">For temporary (225 days) amendment of this section, see § 2 of the Nuisance Abatement Notice Temporary Amendment Act of 2015 (<cite doc="D.C. Law 20-252">D.C. Law 20-252</cite>, Apr. 30, 2015,  62 DCR 1958).</annotation>
+    <annotation type="Temporary Legislation">For temporary (225 day) addition, see § 3(b) of Nuisance Properties Abatement Reform and Real Property Classification Temporary Amendment Act of 2007 (<cite doc="D.C. Law 17-102">D.C. Law 17-102</cite>, February 2, 2008, law notification  55 DCR 4254).</annotation>
+    <annotation type="Temporary Legislation">For temporary (225 day) addition, see § 3(b) of Nuisance Properties Abatement Reform and Real Property Classification Temporary Amendment Act of 2006 (<cite doc="D.C. Law 16-259">D.C. Law 16-259</cite>, March 8, 2007, law notification  54 DCR 3044).</annotation>
+    <annotation type="Effect of Amendments">The 2016 amendment by <cite doc="D.C. Law 21-78">D.C. Law 21-78</cite> substituted “Notice of the initial vacant or blighted property determination shall also be posted on the vacant building” for “Notice shall also be posted on the vacant building” in the last sentence.</annotation>
+    <annotation app="2019-04-11" doc="D.C. Law 22-287" eff="2019-04-11" path="§4|(c)|(2)" type="History"/>
+    <annotation app="2019-04-11" doc="D.C. Law 22-287" eff="2019-04-11" path="§4|(c)|(3)" type="History"/>
+    <annotation app="2019-04-11" doc="D.C. Law 22-287" eff="2019-04-11" path="§4|(c)|(1)" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 22-287" path="§4|(c)" codified:display="Note" app="2019-04-11" eff="2019-04-11">Applicability of <cite doc="D.C. Law 22-287" path="">D.C. Law 22-287</cite>: <cite doc="D.C. Law 22-287" path="§8">§ 8 of D.C. Law 22-287</cite> provided that the change made to this section by <cite doc="D.C. Law 22-287" path="§4|(c)">§ 4(c) of D.C. Law 22-287</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2019-04-11" doc="D.C. Law 22-287" eff="2019-04-11" path="§4|(c)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-470" path="§6103" codified:display="Note" app="2022-07-13" eff="2022-07-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-470" path="§6103">§ 6103 of Fiscal Year 2023 Budget Support Emergency Act of 2022 (D.C. Act 24-470, July 13, 2022, 69 DCR 008707)</cite>.</annotation>
+    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§6103" type="History" display="false"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§6103" type="History"/>
+    <annotation doc="D.C. Law 24-167" path="§7132|(a)" type="Applicability" history="false" app="2022-09-21" eff="2022-09-21"><cite doc="D.C. Law 24-167" path="§7132">Section 7132 of D.C. Law 24-167</cite> amended <cite doc="D.C. Law 22-287">D.C. Law 22-287</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by section 4(c) of Law 22-287 has been implemented.
+        </annotation>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§7132|(a)" type="History" display="false"/>
+  </annotations>
+</section>

@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+  <num>5-132.02</num>
+  <heading>Establishment of the Metropolitan Police Department School Safety Division; functions of the School Safety Division.</heading>
+  <para>
+    <num>(a)</num>
+    <text>There is established within the Metropolitan Police Department a School Safety Division that shall provide school resource officers to the DCPS schools and public charter schools.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>The School Safety Division shall be headed by a Director, appointed by, and reporting to, the Chief of Police with rank equal to a Commander or above.</text>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>The School Safety Division shall:</text>
+    <para>
+      <num>(1)</num>
+      <text>Hire and train school resource officers;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Deploy school resource officers to:</text>
+      <para>
+        <num>(A)</num>
+        <text>DCPS schools, consistent with the terms of the MOA; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Public charter schools;</text>
+      </para>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Coordinate with DCPS and public charter schools regarding the use and sharing of resources and communications between MPD and school-specific safety teams; and</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Provide recommendations to the Mayor, Council, and the DCPS Chancellor regarding the impact of school closings, consolidations, grade reconfigurations, use of swing space during school reconstruction, and gang and crew violence on the safety and well-being of children.</text>
+    </para>
+  </para>
+  <para>
+    <num>(c-1)</num>
+    <text>School resource officers shall not report any information regarding a student's suspected crew or gang affiliation, or that of their family members, to a law enforcement agency for the purpose of including such information in any District government crew or gang database, nor shall any such information shared by or derived from a school resource officer be otherwise included in any District government crew or gang database.</text>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>The Metropolitan Police Department shall publish on its website by the beginning of each school year a description of the School Safety Division's planned deployment of school resource officers.</text>
+  </para>
+  <para placeholder="Repealed">
+    <num>(e)</num>
+    <text>Repealed.</text>
+  </para>
+  <annotations>
+    <annotation doc="D.C. Law 15-350" type="History" path="§102">Apr. 13, 2005, D.C. Law 15-350, § 102, 52 DCR 2005</annotation>
+    <annotation doc="D.C. Law 17-320" type="History">Mar. 21, 2009, D.C. Law 17-320, § 2(b), 56 DCR 219</annotation>
+    <annotation doc="D.C. Law 18-232" type="History">Oct. 2, 2010, D.C. Law 18-232, § 201(b), 57 DCR 4504</annotation>
+    <annotation type="Emergency Legislation">For temporary (90 day) addition, see § 3 of School Safety and Security Contracting Procedures Congressional Review Emergency Amendment Act of 2005 (D.C. Act 16-3, January 19, 2005,  52 DCR 2675).</annotation>
+    <annotation type="Emergency Legislation">For temporary (90 day) addition, see § 3 of School Safety and Security Contracting Procedures Emergency Act of 2004 (D.C. Act 15-596, November 30, 2004,  51 DCR 11219).</annotation>
+    <annotation type="Emergency Legislation">For temporary (90 day) addition, see § 3 of Metropolitan Police Department School Safety and Security Emergency Act of 2004 (D.C. Act 15-496, August 2, 2004,  51 DCR 8797).</annotation>
+    <annotation type="Temporary Legislation">For temporary (225 day) addition, see § 3 of School Safety and Security Contracting Procedures Temporary Amendment Act of 2004 (<cite doc="D.C. Law 15-318">D.C. Law 15-318</cite>, April 8, 2005, law notification  52 DCR 4707).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-232">D.C. Law 18-232</cite> rewrote subsec. (c)(2); in subsec. (d)(1), rewrote the first sentence which had read: “The School Safety Division shall develop a plan to be implemented before the beginning of each DCPS school year for protecting children walking to and from school and for protecting children from gang and crew violence on, in, and around DCPS property.”; and, in subsec. (d)(2)(B), substituted “DCPS and public charter schools property” for “DCPS property”. Prior to amendment, subsec. (c)(2) read as follows: “(2) Deploy school security personnel to DCPS;”</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-320">D.C. Law 17-320</cite>, in subsec. (b), substituted “a Commander or above” for “an Assistant Chief”; in subsec. (c)(4), deleted “and” from the end; in subsec. (c)(5), substituted “Chancellor; and” for “Superintendent.”; and added subsecs. (c)(6) and (d).</annotation>
+    <annotation type="Section References">This section is referenced in <cite path="§5-132.06">§ 5-132.06</cite>.</annotation>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§4102|(b)|(1)" type="History"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§4102|(b)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-159" path="§3082|(b)" codified:display="Note" app="2021-08-23" eff="2021-08-23">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-159" path="§3082|(b)">§ 3082(b) of Fiscal Year 2022 Budget Support Emergency Act of 2021 (D.C. Act 24-159, Aug. 23, 2021, 68 DCR 008602)</cite>.</annotation>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§3082|(b)" type="History" display="false"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§3082|(b)|(1)" type="History"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§3082|(b)|(2)" type="History"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-285" eff="2023-03-10" path="§3" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 24-285" path="§3" codified:display="Note" app="2023-03-10" eff="2023-03-10">Applicability of <cite doc="D.C. Law 24-285" path="">D.C. Law 24-285</cite>: <cite doc="D.C. Law 24-285" path="§4">§ 4 of D.C. Law 24-285</cite> provided that the amendment of this section by <cite doc="D.C. Law 24-285" path="§3">§ 3 of D.C. Law 24-285</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§3012|(a)" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§3012|(b)" type="History"/>
+  </annotations>
+</section>

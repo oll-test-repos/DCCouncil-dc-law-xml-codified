@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+  <num>32-1345</num>
+  <heading>Reporting requirements.</heading>
+  <para>
+    <num>(a)</num>
+    <text>The Office of Human Rights shall maintain data on the number of complaints filed pursuant to this subchapter, demographic information on the complainants, the number of investigations it conducts, and the disposition of every complaint and investigation.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>Data maintained by the Office of Human Rights pursuant to subsection (a) of this section shall be submitted to the Council annually, beginning one year from the December 17, 2014.</text>
+  </para>
+  <para placeholder="Repealed">
+    <num>(c)</num>
+    <text>Repealed.</text>
+  </para>
+  <annotations>
+    <annotation doc="D.C. Law 20-152" type="History" path="§6">Dec. 17, 2014, D.C. Law 20-152, § 6, 61 DCR 8904</annotation>
+    <annotation app="2023-03-10" doc="D.C. Law 24-311" eff="2023-03-10" path="§11" type="History"/>
+  </annotations>
+</section>

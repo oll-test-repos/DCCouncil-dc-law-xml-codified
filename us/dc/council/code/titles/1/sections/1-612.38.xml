@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code" placeholder="Repealed">
+  <reason>Repealed</reason>
+  <num>1-612.38</num>
+  <heading>Voluntary Transfer of Leave Program Report.</heading>
+  <text>Repealed.</text>
+  <annotations>
+    <annotation doc="D.C. Law 2-139" type="History" path="§1238">Mar. 3, 1979, D.C. Law 2-139, § 1238</annotation>
+    <annotation doc="D.C. Law 15-68" type="History">as added Feb. 6, 2004, D.C. Law 15-68, § 2, 50 DCR 9819</annotation>
+    <annotation type="Section References">This section is referenced in <cite path="§1-612.32">§ 1-612.32</cite>.</annotation>
+    <annotation type="Cross References">Workers’ compensation, “employee” defined, see <cite path="§32-1501">§ 32-1501</cite>.</annotation>
+    <annotation type="Cross References">Public assistance, workers’ compensation, recipients of Temporary Assistance for Needy Families, see <cite path="§4-205.19k">§ 4-205.19k</cite>.</annotation>
+    <annotation type="Cross References">Merit system, life insurance, withholdings from employees and annuitants, see <cite path="§1-622.10">§ 1-622.10</cite>.</annotation>
+    <annotation type="Cross References">Merit system, effective date provisions, see <cite path="§1-636.02">§ 1-636.02</cite>.</annotation>
+    <annotation type="Cross References">Merit system, continuation of existing laws, see <cite path="§1-632.06">§ 1-632.06</cite>.</annotation>
+    <annotation type="Cross References">Mayor and Council members, coverage, see <cite path="§1-602.02">§ 1-602.02</cite>.</annotation>
+    <annotation app="2022-12-21" doc="D.C. Law 24-212" eff="2022-12-21" path="§2|(m)" type="History"/>
+    <annotation doc="D.C. Law 24-212" path="§2|(m)" type="Applicability" history="false" app="2022-12-21" eff="2022-12-21"><cite doc="D.C. Law 24-212" path="§3">Section 3 of D.C. Law 24-212</cite> provided that the amendments made to this section by D.C. Law 24-212 shall apply as of January 1, 2023.
+      </annotation>
+    <annotation app="2022-12-21" doc="D.C. Law 24-212" eff="2022-12-21" path="§2|(m)" type="History" display="false"/>
+  </annotations>
+</section>

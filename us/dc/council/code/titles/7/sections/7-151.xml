@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+  <num>7-151</num>
+  <heading>Establishment of the Department of Public Health.</heading>
+  <text>There is established in the Executive Branch of the Government of the District of Columbia a Department of Public Health, which shall have as its responsibility the planning, development and implementation of the delivery of health care services to all District of Columbia residents.</text>
+  <annotations>
+    <text type="Mayor's Orders">Amendment of Mayor’s Order 2002-78, dated 4-15-02, Establishment and Appointments — Mayor’s Hospital Bioterrorism Preparedness, see Mayor’s Order 2002-147, August 30, 2002 ( 49 DCR 8415).</text>
+    <text type="Mayor's Orders">Amendment of Mayor’s Order 2002-77, dated 4-5-02, Establishment and Appointments — Mayor’s Bioterrorism Preparedness and Response Program Advisory Committee, see Mayor’s Order 2002-145, August 30, 2002 ( 49 DCR 8411).</text>
+    <text type="Mayor's Orders">Establishment and Appointments — Mayor’s Hospital Bioterrorism Preparedness Planning Advisory Committee, see Mayor’s Order 2002-78, May 3, 2002 ( 49 DCR 4143).</text>
+    <text type="Mayor's Orders">Establishment and Appointments — Mayor’s Bioterrorism Preparedness and Response Program Advisory Committee, see Mayor’s Order 2002-77, May 3, 2002 ( 49 DCR 4137).</text>
+    <text type="Transfer of Functions">The administrative and management support functions in the Department of Human Services as set forth in Sections III. (A), (B), (C), (D), (E), and (F), of Reorganization Plan No. 3 of 1986, dated January 3, 1987, that relate to the functions set forth in section V. (A)(1) above were transferred to the Department of Health.</text>
+    <text type="Transfer of Functions">Pursuant to Reorganization Plan No. 4 of 1996 each of the functions assigned, and authorities delegated to the Director of the Department of Human Services as set forth in Sections III. (K), (L), and (P), of Reorganization Plan No. 3 of 1986, dated January 3, 1987.</text>
+    <annotation doc="D.C. Law 9-182" type="History" path="§2">Mar. 13, 1992, D.C. Law 9-182, § 2, 39 DCR 8203</annotation>
+    <annotation type="Prior Codifications">1981 Ed., § 6-131.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-326" path="§707" codified:display="Note" app="2020-05-27" eff="2020-05-27">For temporary (90 days) healthcare provider liability for care or treatment of COVID-19, see <cite doc="D.C. Act 23-326" path="§707">§ 707 of Coronavirus Support Emergency Amendment Act of 2020 (D.C. Act 23-326, May 27, 2020, 67 DCR 7045)</cite>.</annotation>
+    <annotation app="2020-05-27" doc="D.C. Act 23-326" eff="2020-05-27" path="§707" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-328" path="§707" codified:display="Note" app="2020-06-08" eff="2020-06-08">For temporary (90 days) healthcare provider liability for care or treatment of COVID-19, see <cite doc="D.C. Act 23-328" path="§707">§ 707 of Coronavirus Support Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-328, June 8, 2020, 67 DCR 7598)</cite>.</annotation>
+    <annotation app="2020-06-08" doc="D.C. Act 23-328" eff="2020-06-08" path="§707" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-30" path="§707" codified:display="Note" app="2021-03-17" eff="2021-03-17">For temporary (90 days) healthcare provider liability for care or treatment of COVID-19, see <cite doc="D.C. Act 24-30" path="§707">§ 707 of Coronavirus Support Emergency Amendment Act of 2021 (D.C. Act 24-30, Mar. 17, 2021, 68 DCR 003101)</cite>.</annotation>
+    <annotation app="2021-03-17" doc="D.C. Act 24-30" eff="2021-03-17" path="§707" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-96" path="§707" codified:display="Note" app="2021-06-07" eff="2021-06-07">For temporary (90 days) healthcare provider liability for care or treatment of COVID-19, see <cite doc="D.C. Act 24-96" path="§707">§ 707 of Coronavirus Support Congressional Review Emergency Amendment Act of 2021 (D.C. Act 24-96, June 7, 2021, 68 DCR 006025)</cite>.</annotation>
+    <annotation app="2021-06-07" doc="D.C. Act 24-96" eff="2021-06-07" path="§707" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-9" path="§707" codified:display="Note" app="2021-06-24" eff="2021-06-24">For temporary (225 days) healthcare provider liability for care or treatment of COVID-19, see <cite doc="D.C. Law 24-9" path="§707">§ 707 of Coronavirus Support Temporary Amendment Act of 2021 (D.C. Law 24-9, June 24, 2021, 68 DCR 004824)</cite>.</annotation>
+    <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="§707" type="History" display="false"/>
+  </annotations>
+</section>
